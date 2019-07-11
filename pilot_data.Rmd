@@ -1,0 +1,62 @@
+---
+title: "Foregrounding/Backgrounding"
+author: "Claire Bergey and Dan Yurovsky"
+date: '`r Sys.Date()`'
+output:
+  html_document:
+    highlight: tango
+    theme: sandstone
+    code_folding: hide
+    toc: false
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load-libraries, library, message=F, results='hide', warning=FALSE}
+library(tidyverse)
+library(here)
+library(knitr)
+library(tidyboot)
+library(lme4)
+library(broom.mixed)
+
+theme_set(theme_classic(base_size = 16))
+```
+
+```{r read-data,  message = FALSE, warning = FALSE}
+data <- read_csv(here("data/foregroundingv1-2.csv")) %>%
+  filter(subid != 0, subid != "subid") %>%
+  mutate_at(c("subid", "subage", "counter"), as.numeric) %>%
+  mutate(chosetarget = as.logical(chosetarget)) %>%
+  mutate(subid = paste0(subage, "_", subid))
+```
+
+```{r plot_data}
+mean_data <- data %>%
+  filter(counter <= 4) %>%
+  mutate(age_bin = subage >= median(subage)) %>%
+  group_by(age_bin, modifier, response, subid) %>%
+  summarise(chosetarget = mean(chosetarget)) %>%
+  tidyboot_mean(chosetarget) 
+
+mean_data %>%
+  ggplot(aes(x = response, y = empirical_stat, color = modifier)) + 
+  geom_pointrange(aes(ymin = ci_lower, ymax = ci_upper),
+                      position = position_dodge(.5)) + 
+  facet_wrap(~ age_bin)
+```
+
+```{r model}
+data %>%
+  filter(counter <= 4, subage >= median(subage)) %>%
+  glmer(chosetarget ~ modifier * response + (1|subid),
+        family = "binomial", data = .) %>%
+  tidy() %>%
+  filter(effect == "fixed") %>%
+  select(-effect, - group) %>%
+  kable()
+```
+
