@@ -27,7 +27,7 @@ theme_set(theme_classic(base_size = 16))
 ```
 
 ```{r read-data,  message = FALSE, warning = FALSE}
-data <- read_csv(here("data/foregroundingv1-2.csv")) %>%
+data <- read_csv(here("data/foregroundingv1-3.csv")) %>%
   filter(subid != 0, subid != "subid") %>%
   mutate_at(c("subid", "subage", "counter"), as.numeric) %>%
   mutate(chosetarget = as.logical(chosetarget)) %>%
@@ -36,8 +36,8 @@ data <- read_csv(here("data/foregroundingv1-2.csv")) %>%
 
 ```{r plot_data}
 mean_data <- data %>%
-  filter(counter <= 4) %>%
-  mutate(age_bin = subage >= median(subage)) %>%
+ # filter(counter <= 4) %>%
+  mutate(age_bin = subage > 4) %>%
   group_by(age_bin, modifier, response, subid) %>%
   summarise(chosetarget = mean(chosetarget)) %>%
   tidyboot_mean(chosetarget) 
