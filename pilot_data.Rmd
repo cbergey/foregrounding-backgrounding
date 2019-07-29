@@ -27,7 +27,7 @@ theme_set(theme_classic(base_size = 16))
 ```
 
 ```{r read-data,  message = FALSE, warning = FALSE}
-data <- read_csv(here("data/foregroundingv1-3.csv")) %>%
+data <- read_csv(here("data/foregroundingv2.csv")) %>%
   filter(subid != 0, subid != "subid") %>%
   mutate_at(c("subid", "subage", "counter"), as.numeric) %>%
   mutate(chosetarget = as.logical(chosetarget)) %>%
