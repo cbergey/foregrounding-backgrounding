@@ -1,0 +1,764 @@
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,blicket,no,true,blicket,new,7/19/2019,9:46,3899,1,left,left
+0,0,v3,2,new,sprock,yes,true,sprock,new,7/19/2019,9:46,3712,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,,zorp,yes,true,zorp,nomodifier,7/19/2019,9:50,2824,2,right,right
+0,0,v3,2,new,gade,yes,true,gade,new,7/19/2019,9:50,3784,2,right,right
+0,0,v3,3,new,sprock,yes,true,sprock,new,7/19/2019,9:50,4209,1,left,left
+0,0,v3,4,new,koba,no,true,koba,new,7/19/2019,9:50,3588,1,left,left
+0,0,v3,5,new,blicket,no,true,blicket,new,7/19/2019,9:50,4050,1,left,left
+0,0,v3,6,,toma,no,false,toma,nomodifier,7/19/2019,9:50,2694,1,left,right
+0,0,v3,7,,boti,no,true,boti,nomodifier,7/19/2019,9:50,1997,2,right,right
+0,0,v3,8,,wug,yes,true,wug,nomodifier,7/19/2019,9:50,2413,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,1,,gade,yes,true,gade,nomodifier,7/19/2019,9:53,2999,1,left,left
+0,0,v2,2,,sprock,yes,true,sprock,nomodifier,7/19/2019,9:53,3147,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,,boti,yes,true,boti,nomodifier,7/19/2019,10:05,2195,1,left,left
+0,0,v1,2,,zorp,no,true,zorp,nomodifier,7/19/2019,10:05,2052,2,right,right
+0,0,v1,3,new,sprock,no,true,sprock,new,7/19/2019,10:05,2714,1,left,left
+0,0,v1,4,,wug,no,true,wug,nomodifier,7/19/2019,10:05,11062,1,left,left
+0,0,v1,5,,toma,yes,true,toma,nomodifier,7/19/2019,10:05,2013,2,right,right
+0,0,v1,6,new,blicket,yes,true,blicket,new,7/19/2019,10:05,3142,1,left,left
+0,0,v1,7,new,gade,no,true,gade,new,7/19/2019,10:05,3683,2,right,right
+0,0,v1,8,new,koba,yes,true,koba,new,7/19/2019,10:05,2814,1,left,left
+0,0,v2,1,new,boti,no,true,boti,new,7/19/2019,9:52,980206,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,,toma,yes,true,toma,nomodifier,7/19/2019,10:09,2434,1,left,left
+0,0,v1,2,new,sprock,no,true,sprock,new,7/19/2019,10:09,2786,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,1,new,wug,yes,true,wug,new,7/19/2019,10:13,3759,2,right,right
+0,0,v2,2,new,toma,no,true,toma,new,7/19/2019,10:13,2358,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,sprock,yes,true,sprock,new,7/19/2019,10:16,3734,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,,zorp,no,true,zorp,nomodifier,7/19/2019,10:17,2483,2,right,right
+0,0,v1,2,new,blicket,yes,true,blicket,new,7/19/2019,10:17,4260,1,left,left
+0,0,v1,3,,boti,yes,true,boti,nomodifier,7/19/2019,10:17,3391,1,left,left
+0,0,v1,4,new,sprock,no,true,sprock,new,7/19/2019,10:17,5024,2,right,right
+0,0,v1,5,new,koba,yes,true,koba,new,7/19/2019,10:17,2459,2,right,right
+0,0,v1,6,,toma,yes,true,toma,nomodifier,7/19/2019,10:17,888,2,right,right
+0,0,v1,7,,wug,no,true,wug,nomodifier,7/19/2019,10:17,2455,1,left,left
+0,0,v1,8,new,gade,no,true,gade,new,7/19/2019,10:17,3350,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,1,,blicket,no,true,blicket,nomodifier,7/19/2019,10:20,3247,2,right,right
+0,0,v2,2,,gade,yes,true,gade,nomodifier,7/19/2019,10:20,3755,2,right,right
+0,0,v2,3,new,wug,yes,true,wug,new,7/19/2019,10:20,2083,2,right,right
+0,0,v2,4,new,toma,no,true,toma,new,7/19/2019,10:20,2366,2,right,right
+0,0,v2,5,new,zorp,yes,true,zorp,new,7/19/2019,10:20,1965,2,right,right
+0,0,v2,6,new,boti,no,true,boti,new,7/19/2019,10:20,1787,1,left,left
+0,0,v2,7,,sprock,yes,true,sprock,nomodifier,7/19/2019,10:20,3076,1,left,left
+0,0,v2,8,,koba,no,true,koba,nomodifier,7/19/2019,10:20,2211,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,new,sprock,no,false,sprock,new,7/19/2019,10:44,3101,2,right,left
+0,0,v1,2,,boti,yes,true,boti,nomodifier,7/19/2019,10:44,1546,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,2,new,toma,no,false,toma,new,7/23/2019,10:15,2334,2,right,left
+0,0,v2,3,,sprock,yes,false,sprock,nomodifier,7/23/2019,10:15,1382,2,right,left
+0,0,v2,4,new,wug,yes,true,wug,new,7/23/2019,10:15,4900,1,left,left
+0,0,v2,5,,gade,yes,true,gade,nomodifier,7/23/2019,10:15,1437,1,left,left
+0,0,v2,6,new,zorp,yes,false,zorp,new,7/23/2019,10:15,1341,2,right,left
+0,0,v2,7,,koba,no,false,koba,nomodifier,7/23/2019,10:15,1094,2,right,left
+0,0,v2,8,new,boti,no,true,boti,new,7/23/2019,10:15,1436,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,,wug,yes,true,wug,nomodifier,7/23/2019,10:17,8923,2,right,right
+0,0,v3,2,new,sprock,yes,true,sprock,new,7/23/2019,10:17,7647,1,left,left
+0,0,v3,3,new,blicket,no,true,blicket,new,7/23/2019,10:17,9865,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,4,,toma,no,false,toma,nomodifier,7/23/2019,10:17,13228,1,left,right
+0,0,v2,1,new,toma,no,false,toma,new,7/23/2019,10:18,6687,1,left,right
+0,0,v3,5,new,gade,yes,false,gade,new,7/23/2019,10:17,6558,2,right,left
+0,0,v2,2,,sprock,yes,false,sprock,nomodifier,7/23/2019,10:18,16542,2,right,left
+0,0,v3,6,,boti,no,false,boti,nomodifier,7/23/2019,10:17,8269,2,right,left
+0,0,v2,3,new,wug,yes,true,wug,new,7/23/2019,10:18,5589,2,right,right
+0,0,v3,7,,zorp,yes,true,zorp,nomodifier,7/23/2019,10:17,3709,1,left,left
+0,0,v2,4,,blicket,no,true,blicket,nomodifier,7/23/2019,10:18,4273,1,left,left
+0,0,v2,5,new,boti,no,false,boti,new,7/23/2019,10:18,1269,2,right,left
+0,0,v3,8,new,koba,no,false,koba,new,7/23/2019,10:17,14711,1,left,right
+0,0,v2,6,,gade,yes,false,gade,nomodifier,7/23/2019,10:18,1399,2,right,left
+0,0,v2,7,,koba,no,false,koba,nomodifier,7/23/2019,10:18,1215,2,right,left
+0,0,v2,8,new,zorp,yes,false,zorp,new,7/23/2019,10:18,1345,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,,toma,no,true,toma,nomodifier,7/23/2019,10:21,4695,2,right,right
+0,0,v3,2,new,sprock,yes,true,sprock,new,7/23/2019,10:21,23680,1,left,left
+0,0,v3,3,new,blicket,no,true,blicket,new,7/23/2019,10:21,8277,2,right,right
+0,0,v3,4,,wug,yes,false,wug,nomodifier,7/23/2019,10:21,61548,2,right,left
+0,0,v3,6,new,gade,yes,true,gade,new,7/23/2019,10:21,4598,2,right,right
+0,0,v3,7,,boti,no,false,boti,nomodifier,7/23/2019,10:21,2211,1,left,right
+0,0,v3,8,,zorp,yes,true,zorp,nomodifier,7/23/2019,10:21,1251,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+36,4,v3,1,,wug,yes,true,wug,nomodifier,7/23/2019,10:57,7025,1,left,left
+36,4,v3,2,new,sprock,yes,true,sprock,new,7/23/2019,10:57,4474,2,right,right
+36,4,v3,3,new,blicket,no,true,blicket,new,7/23/2019,10:57,4386,2,right,right
+36,4,v3,4,,toma,no,true,toma,nomodifier,7/23/2019,10:57,3785,2,right,right
+36,4,v3,5,new,gade,yes,false,gade,new,7/23/2019,10:57,4928,1,left,right
+36,4,v3,6,new,koba,no,true,koba,new,7/23/2019,10:57,4051,2,right,right
+36,4,v3,7,,boti,no,true,boti,nomodifier,7/23/2019,10:57,2551,1,left,left
+36,4,v3,8,,zorp,yes,true,zorp,nomodifier,7/23/2019,10:57,2321,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+37,3,v2,1,new,wug,yes,true,wug,new,7/23/2019,11:03,7325,1,left,left
+37,3,v2,2,new,toma,no,true,toma,new,7/23/2019,11:03,9617,1,left,left
+37,3,v2,3,,sprock,yes,true,sprock,nomodifier,7/23/2019,11:03,3307,1,left,left
+37,3,v2,4,,blicket,no,true,blicket,nomodifier,7/23/2019,11:03,6871,2,right,right
+37,3,v2,5,,gade,yes,false,gade,nomodifier,7/23/2019,11:03,22102,1,left,right
+37,3,v2,6,,koba,no,true,koba,nomodifier,7/23/2019,11:03,2900,1,left,left
+37,3,v2,7,new,boti,no,true,boti,new,7/23/2019,11:03,8999,1,left,left
+37,3,v2,8,new,zorp,yes,true,zorp,new,7/23/2019,11:03,5655,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+38,6,v2,1,,sprock,yes,true,sprock,nomodifier,7/23/2019,11:49,5556,2,right,right
+38,6,v2,2,new,wug,yes,true,wug,new,7/23/2019,11:49,2739,2,right,right
+38,6,v2,3,,blicket,no,false,blicket,nomodifier,7/23/2019,11:49,6221,1,left,right
+38,6,v2,4,new,toma,no,false,toma,new,7/23/2019,11:49,5393,1,left,right
+38,6,v2,5,,gade,yes,true,gade,nomodifier,7/23/2019,11:49,3926,1,left,left
+38,6,v2,6,new,boti,no,false,boti,new,7/23/2019,11:49,4929,1,left,right
+38,6,v2,7,new,zorp,yes,true,zorp,new,7/23/2019,11:49,2621,2,right,right
+38,6,v2,8,,koba,no,false,koba,nomodifier,7/23/2019,11:49,2407,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+39,6,v2,1,,blicket,no,true,blicket,nomodifier,7/23/2019,12:15,29729,1,left,left
+39,6,v2,2,new,toma,no,true,toma,new,7/23/2019,12:15,5428,2,right,right
+39,6,v2,3,,sprock,yes,true,sprock,nomodifier,7/23/2019,12:15,3258,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+40,4,v3,1,,toma,no,true,toma,nomodifier,7/23/2019,12:45,4279,2,right,right
+39,6,v2,4,new,wug,yes,false,wug,new,7/23/2019,12:15,10321,2,right,left
+40,4,v3,2,,wug,yes,true,wug,nomodifier,7/23/2019,12:45,2710,1,left,left
+39,6,v2,5,new,zorp,yes,true,zorp,new,7/23/2019,12:15,3140,2,right,right
+40,4,v3,3,new,blicket,no,true,blicket,new,7/23/2019,12:45,3266,2,right,right
+40,4,v3,4,new,sprock,yes,true,sprock,new,7/23/2019,12:45,11954,2,right,right
+39,6,v2,7,new,boti,no,true,boti,new,7/23/2019,12:15,15522,2,right,right
+40,4,v3,5,new,koba,no,true,koba,new,7/23/2019,12:45,2832,2,right,right
+40,4,v3,6,,zorp,yes,true,zorp,nomodifier,7/23/2019,12:45,6954,2,right,right
+39,6,v2,8,,gade,yes,true,gade,nomodifier,7/23/2019,12:15,3924,2,right,right
+40,4,v3,7,,boti,no,true,boti,nomodifier,7/23/2019,12:45,14527,2,right,right
+40,4,v3,8,new,gade,yes,true,gade,new,7/23/2019,12:45,3598,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+00,0,v3,1,new,sprock,yes,true,sprock,new,7/23/2019,12:51,2621,1,left,left
+00,0,v3,2,new,blicket,no,false,blicket,new,7/23/2019,12:51,1877,2,right,left
+00,0,v3,3,,toma,no,false,toma,nomodifier,7/23/2019,12:51,3391,1,left,right
+00,0,v3,4,,wug,yes,true,wug,nomodifier,7/23/2019,12:51,2894,2,right,right
+00,0,v3,5,new,gade,yes,true,gade,new,7/23/2019,12:51,2977,1,left,left
+00,0,v3,6,new,koba,no,false,koba,new,7/23/2019,12:51,3290,1,left,right
+00,0,v3,7,,boti,no,false,boti,nomodifier,7/23/2019,12:51,1734,1,left,right
+00,0,v3,8,,zorp,yes,true,zorp,nomodifier,7/23/2019,12:51,1225,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+41,6,v4,1,new,toma,yes,true,toma,new,7/23/2019,12:51,6096,2,right,right
+41,6,v4,2,,gade,no,true,gade,nomodifier,7/23/2019,12:51,8407,2,right,right
+41,6,v4,3,new,wug,no,true,wug,new,7/23/2019,12:51,4960,1,left,left
+41,6,v4,4,,koba,yes,true,koba,nomodifier,7/23/2019,12:51,2473,2,right,right
+41,6,v4,5,,sprock,no,true,sprock,nomodifier,7/23/2019,12:51,1515,2,right,right
+41,6,v4,6,,blicket,yes,true,blicket,nomodifier,7/23/2019,12:51,2480,1,left,left
+41,6,v4,7,new,zorp,no,true,zorp,new,7/23/2019,12:51,2611,1,left,left
+41,6,v4,8,new,boti,yes,true,boti,new,7/23/2019,12:51,1747,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+41,5,v2,1,,blicket,no,true,blicket,nomodifier,7/23/2019,13:09,5159,2,right,right
+41,5,v2,2,,sprock,yes,true,sprock,nomodifier,7/23/2019,13:09,2275,2,right,right
+41,5,v2,3,new,wug,yes,true,wug,new,7/23/2019,13:09,5794,2,right,right
+41,5,v2,4,new,toma,no,true,toma,new,7/23/2019,13:09,3395,2,right,right
+41,5,v2,5,,gade,yes,true,gade,nomodifier,7/23/2019,13:09,5349,2,right,right
+41,5,v2,6,new,boti,no,true,boti,new,7/23/2019,13:09,2859,1,left,left
+41,5,v2,7,,koba,no,true,koba,nomodifier,7/23/2019,13:09,2642,2,right,right
+41,5,v2,8,new,zorp,yes,true,zorp,new,7/23/2019,13:09,3209,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+42,4,v2,1,,sprock,yes,false,sprock,nomodifier,7/23/2019,13:32,5955,2,right,left
+42,4,v2,2,new,toma,no,true,toma,new,7/23/2019,13:32,6989,2,right,right
+42,4,v2,3,new,wug,yes,true,wug,new,7/23/2019,13:32,5069,2,right,right
+42,4,v2,4,,blicket,no,false,blicket,nomodifier,7/23/2019,13:32,4074,2,right,left
+42,4,v2,5,new,boti,no,false,boti,new,7/23/2019,13:32,3985,1,left,right
+42,4,v2,6,new,zorp,yes,true,zorp,new,7/23/2019,13:32,4216,2,right,right
+42,4,v2,7,,koba,no,false,koba,nomodifier,7/23/2019,13:32,7132,1,left,right
+42,4,v2,8,,gade,yes,true,gade,nomodifier,7/23/2019,13:32,7943,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+44,5,v2,1,new,wug,yes,false,wug,new,7/23/2019,14:06,8169,2,right,left
+44,5,v2,2,new,toma,no,true,toma,new,7/23/2019,14:06,3236,2,right,right
+44,5,v2,3,,blicket,no,false,blicket,nomodifier,7/23/2019,14:06,4812,1,left,right
+44,5,v2,4,,sprock,yes,true,sprock,nomodifier,7/23/2019,14:06,8249,2,right,right
+44,5,v2,5,new,boti,no,true,boti,new,7/23/2019,14:06,3024,2,right,right
+44,5,v2,6,new,zorp,yes,true,zorp,new,7/23/2019,14:06,2207,2,right,right
+44,5,v2,7,,koba,no,true,koba,nomodifier,7/23/2019,14:06,2260,1,left,left
+44,5,v2,8,,gade,yes,true,gade,nomodifier,7/23/2019,14:06,3466,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,sprock,yes,false,sprock,new,7/23/2019,15:45,1459,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+50,5,v1,1,,boti,yes,true,boti,nomodifier,7/23/2019,15:48,4647,2,right,right
+50,5,v1,2,new,blicket,yes,true,blicket,new,7/23/2019,15:48,3573,1,left,left
+50,5,v1,3,,zorp,no,false,zorp,nomodifier,7/23/2019,15:48,3014,2,right,left
+50,5,v1,4,new,sprock,no,false,sprock,new,7/23/2019,15:48,4785,1,left,right
+50,5,v1,5,new,koba,yes,true,koba,new,7/23/2019,15:48,2440,1,left,left
+50,5,v1,6,new,gade,no,false,gade,new,7/23/2019,15:48,3448,2,right,left
+50,5,v1,7,,wug,no,false,wug,nomodifier,7/23/2019,15:48,3093,2,right,left
+50,5,v1,8,,toma,yes,true,toma,nomodifier,7/23/2019,15:48,2475,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+51,3,v2,1,new,toma,no,true,toma,new,7/23/2019,15:56,3326,2,right,right
+51,3,v2,2,,blicket,no,true,blicket,nomodifier,7/23/2019,15:56,4976,1,left,left
+51,3,v2,3,,sprock,yes,true,sprock,nomodifier,7/23/2019,15:56,5166,2,right,right
+51,3,v2,4,new,wug,yes,true,wug,new,7/23/2019,15:56,5278,2,right,right
+51,3,v2,5,new,boti,no,true,boti,new,7/23/2019,15:56,5781,2,right,right
+51,3,v2,6,,gade,yes,true,gade,nomodifier,7/23/2019,15:56,5282,2,right,right
+51,3,v2,7,new,zorp,yes,true,zorp,new,7/23/2019,15:56,2793,1,left,left
+51,3,v2,8,,koba,no,true,koba,nomodifier,7/23/2019,15:56,7316,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,,gade,no,false,gade,nomodifier,7/25/2019,10:05,3834,1,left,right
+0,0,v4,2,new,wug,no,true,wug,new,7/25/2019,10:05,6912,1,left,left
+0,0,v4,3,new,toma,yes,true,toma,new,7/25/2019,10:05,3294,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,new,wug,no,true,wug,new,7/25/2019,10:10,4797,2,right,right
+0,0,v4,2,,koba,yes,true,koba,nomodifier,7/25/2019,10:10,9718,2,right,right
+0,0,v4,3,new,toma,yes,true,toma,new,7/25/2019,10:10,4829,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,new,toma,yes,true,toma,new,7/25/2019,10:10,5717,2,right,right
+0,0,v4,2,new,wug,no,true,wug,new,7/25/2019,10:10,2385,2,right,right
+0,0,v4,3,,koba,yes,true,koba,nomodifier,7/25/2019,10:10,3346,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+45,6,v4,1,,gade,no,true,gade,nomodifier,7/25/2019,10:12,4484,1,left,left
+46,4,v3,1,new,blicket,no,true,blicket,new,7/25/2019,10:14,7511,2,right,right
+45,6,v4,2,new,wug,no,true,wug,new,7/25/2019,10:12,4473,2,right,right
+46,4,v3,2,,toma,no,true,toma,nomodifier,7/25/2019,10:14,4008,1,left,left
+45,6,v4,3,new,toma,yes,false,toma,new,7/25/2019,10:12,3172,1,left,right
+46,4,v3,3,new,sprock,yes,false,sprock,new,7/25/2019,10:14,9115,1,left,right
+45,6,v4,4,,koba,yes,true,koba,nomodifier,7/25/2019,10:12,4758,2,right,right
+46,4,v3,4,,wug,yes,true,wug,nomodifier,7/25/2019,10:14,3192,1,left,left
+45,6,v4,5,new,zorp,no,false,zorp,new,7/25/2019,10:12,4377,2,right,left
+46,4,v3,5,new,koba,no,false,koba,new,7/25/2019,10:14,3571,2,right,left
+45,6,v4,6,,sprock,no,false,sprock,nomodifier,7/25/2019,10:12,3187,1,left,right
+46,4,v3,6,,boti,no,false,boti,nomodifier,7/25/2019,10:14,2719,2,right,left
+45,6,v4,7,new,boti,yes,true,boti,new,7/25/2019,10:12,2744,1,left,left
+46,4,v3,7,,zorp,yes,true,zorp,nomodifier,7/25/2019,10:14,2569,2,right,right
+45,6,v4,8,,blicket,yes,true,blicket,nomodifier,7/25/2019,10:12,3662,2,right,right
+46,4,v3,8,new,gade,yes,false,gade,new,7/25/2019,10:14,4494,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+47,4,v4,1,,gade,no,true,gade,nomodifier,7/25/2019,12:07,7788,2,right,right
+47,4,v4,2,new,toma,yes,true,toma,new,7/25/2019,12:07,3124,2,right,right
+47,4,v4,3,,koba,yes,true,koba,nomodifier,7/25/2019,12:07,3079,2,right,right
+47,4,v4,4,new,wug,no,true,wug,new,7/25/2019,12:07,27563,2,right,right
+47,4,v4,5,,sprock,no,true,sprock,nomodifier,7/25/2019,12:07,2602,1,left,left
+47,4,v4,6,,blicket,yes,true,blicket,nomodifier,7/25/2019,12:07,2090,1,left,left
+47,4,v4,7,new,zorp,no,true,zorp,new,7/25/2019,12:07,1890,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+47,4,v4,8,new,boti,yes,true,boti,new,7/25/2019,12:07,2094,1,left,left
+48,3,v3,1,new,blicket,no,true,blicket,new,7/25/2019,12:07,16144,2,right,right
+48,3,v3,2,,wug,yes,true,wug,nomodifier,7/25/2019,12:07,3794,1,left,left
+48,3,v3,3,new,sprock,yes,true,sprock,new,7/25/2019,12:07,4737,1,left,left
+48,3,v3,4,,toma,no,true,toma,nomodifier,7/25/2019,12:07,12962,2,right,right
+48,3,v3,5,,zorp,yes,true,zorp,nomodifier,7/25/2019,12:07,6611,1,left,left
+48,3,v3,6,,boti,no,true,boti,nomodifier,7/25/2019,12:07,4870,1,left,left
+48,3,v3,7,new,gade,yes,true,gade,new,7/25/2019,12:07,13492,1,left,left
+48,3,v3,8,new,koba,no,true,koba,new,7/25/2019,12:07,3179,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+49,6,v3,1,new,sprock,yes,true,sprock,new,7/25/2019,12:13,5736,1,left,left
+49,6,v3,2,,wug,yes,true,wug,nomodifier,7/25/2019,12:13,3802,2,right,right
+49,6,v3,3,,toma,no,true,toma,nomodifier,7/25/2019,12:13,18227,2,right,right
+49,6,v3,4,new,blicket,no,true,blicket,new,7/25/2019,12:13,18899,1,left,left
+49,6,v3,5,,boti,no,true,boti,nomodifier,7/25/2019,12:13,2555,1,left,left
+49,6,v3,6,new,koba,no,true,koba,new,7/25/2019,12:13,2696,2,right,right
+49,6,v3,7,new,gade,yes,true,gade,new,7/25/2019,12:13,3575,2,right,right
+49,6,v3,8,,zorp,yes,true,zorp,nomodifier,7/25/2019,12:13,3302,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+52,6,v3,1,,toma,no,true,toma,nomodifier,7/25/2019,12:23,4696,2,right,right
+52,6,v3,2,new,sprock,yes,false,sprock,new,7/25/2019,12:23,5080,2,right,left
+52,6,v3,3,new,blicket,no,true,blicket,new,7/25/2019,12:23,5627,1,left,left
+52,6,v3,4,,wug,yes,true,wug,nomodifier,7/25/2019,12:23,7834,2,right,right
+52,6,v3,5,,zorp,yes,true,zorp,nomodifier,7/25/2019,12:23,5377,2,right,right
+52,6,v3,6,,boti,no,true,boti,nomodifier,7/25/2019,12:23,3945,2,right,right
+52,6,v3,7,new,koba,no,true,koba,new,7/25/2019,12:23,4113,2,right,right
+52,6,v3,8,new,gade,yes,true,gade,new,7/25/2019,12:23,5767,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+53,5,v2,1,,blicket,no,true,blicket,nomodifier,7/25/2019,10:16,6022,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+53,5,v2,2,new,toma,no,true,toma,new,7/25/2019,10:16,3666,2,right,right
+53,5,v2,3,new,wug,yes,true,wug,new,7/25/2019,10:16,3325,2,right,right
+53,5,v2,4,,sprock,yes,true,sprock,nomodifier,7/25/2019,10:16,2613,2,right,right
+53,5,v2,5,,gade,yes,true,gade,nomodifier,7/25/2019,10:16,3771,2,right,right
+53,5,v2,6,new,zorp,yes,true,zorp,new,7/25/2019,10:16,4416,2,right,right
+53,5,v2,7,,koba,no,true,koba,nomodifier,7/25/2019,10:16,4445,2,right,right
+53,5,v2,8,new,boti,no,true,boti,new,7/25/2019,10:16,3190,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+54,5,v3,1,new,blicket,no,true,blicket,new,7/25/2019,12:58,1893,2,right,right
+54,5,v3,2,new,sprock,yes,true,sprock,new,7/25/2019,12:58,1442,1,left,left
+54,5,v3,3,,toma,no,true,toma,nomodifier,7/25/2019,12:58,1362,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+54,5,v3,4,,wug,yes,true,wug,nomodifier,7/25/2019,12:58,1585,1,left,left
+55,6,v3,1,new,sprock,yes,true,sprock,new,7/25/2019,13:41,3862,1,left,left
+54,5,v3,5,new,gade,yes,true,gade,new,7/25/2019,12:58,2286,1,left,left
+54,5,v3,6,,boti,no,true,boti,nomodifier,7/25/2019,12:58,3018,1,left,left
+54,5,v3,7,new,koba,no,true,koba,new,7/25/2019,12:58,1990,2,right,right
+55,6,v3,2,new,blicket,no,false,blicket,new,7/25/2019,13:41,25660,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+54,5,v3,8,,zorp,yes,true,zorp,nomodifier,7/25/2019,12:58,3460,1,left,left
+55,6,v3,3,,toma,no,false,toma,nomodifier,7/25/2019,13:41,2756,1,left,right
+56,3,v4,1,,gade,no,false,gade,nomodifier,7/25/2019,13:41,9528,2,right,left
+55,6,v3,4,,wug,yes,true,wug,nomodifier,7/25/2019,13:41,12300,1,left,left
+56,3,v4,2,new,toma,yes,true,toma,new,7/25/2019,13:41,22528,2,right,right
+55,6,v3,5,,boti,no,false,boti,nomodifier,7/25/2019,13:41,24961,2,right,left
+56,3,v4,3,new,wug,no,true,wug,new,7/25/2019,13:41,11765,2,right,right
+55,6,v3,6,new,koba,no,false,koba,new,7/25/2019,13:41,7353,1,left,right
+56,3,v4,4,,koba,yes,true,koba,nomodifier,7/25/2019,13:41,6461,1,left,left
+55,6,v3,7,new,gade,yes,true,gade,new,7/25/2019,13:41,9484,1,left,left
+56,3,v4,5,new,boti,yes,true,boti,new,7/25/2019,13:41,6988,2,right,right
+56,3,v4,6,new,zorp,no,true,zorp,new,7/25/2019,13:41,5050,2,right,right
+55,6,v3,8,,zorp,yes,true,zorp,nomodifier,7/25/2019,13:41,8104,1,left,left
+56,3,v4,7,,blicket,yes,true,blicket,nomodifier,7/25/2019,13:41,5509,2,right,right
+56,3,v4,8,,sprock,no,true,sprock,nomodifier,7/25/2019,13:41,5812,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,new,sprock,no,false,sprock,new,7/25/2019,14:43,4475,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,blicket,no,false,blicket,new,7/25/2019,14:40,3906,2,right,left
+0,0,v3,2,,wug,yes,true,wug,nomodifier,7/25/2019,14:40,3262,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,2,,zorp,no,false,zorp,nomodifier,7/25/2019,14:43,32884,1,left,right
+0,0,v3,3,,toma,no,false,toma,nomodifier,7/25/2019,14:40,2955,1,left,right
+0,0,v1,1,,boti,yes,true,boti,nomodifier,7/25/2019,14:42,2761,1,left,left
+0,0,v3,4,new,sprock,yes,true,sprock,new,7/25/2019,14:40,4270,1,left,left
+0,0,v1,2,new,sprock,no,false,sprock,new,7/25/2019,14:42,2507,1,left,right
+0,0,v3,5,new,koba,no,false,koba,new,7/25/2019,14:40,2676,2,right,left
+0,0,v1,3,new,blicket,yes,true,blicket,new,7/25/2019,14:42,2513,2,right,right
+0,0,v3,6,,boti,no,false,boti,nomodifier,7/25/2019,14:40,2703,1,left,right
+0,0,v1,4,,zorp,no,false,zorp,nomodifier,7/25/2019,14:42,2641,2,right,left
+0,0,v3,7,,zorp,yes,true,zorp,nomodifier,7/25/2019,14:40,3226,1,left,left
+0,0,v1,5,new,gade,no,false,gade,new,7/25/2019,14:42,3641,2,right,left
+0,0,v3,8,new,gade,yes,true,gade,new,7/25/2019,14:40,3713,1,left,left
+0,0,v1,6,,toma,yes,true,toma,nomodifier,7/25/2019,14:42,1675,1,left,left
+0,0,v1,7,new,koba,yes,true,koba,new,7/25/2019,14:42,2501,1,left,left
+0,0,v1,8,,wug,no,false,wug,nomodifier,7/25/2019,14:42,7040,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,blicket,no,true,blicket,new,7/25/2019,14:58,2875,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+57,6,v1,1,,boti,yes,true,boti,nomodifier,7/25/2019,14:56,5705,2,right,right
+57,6,v1,2,new,blicket,yes,true,blicket,new,7/25/2019,14:56,6264,2,right,right
+57,6,v1,3,,zorp,no,true,zorp,nomodifier,7/25/2019,14:56,4713,2,right,right
+57,6,v1,4,new,sprock,no,true,sprock,new,7/25/2019,14:56,1956,1,left,left
+57,6,v1,5,,toma,yes,true,toma,nomodifier,7/25/2019,14:56,2711,1,left,left
+57,6,v1,6,new,koba,yes,true,koba,new,7/25/2019,14:56,3705,2,right,right
+57,6,v1,7,new,gade,no,true,gade,new,7/25/2019,14:56,3347,2,right,right
+57,6,v1,8,,wug,no,true,wug,nomodifier,7/25/2019,14:56,3276,2,right,right
+0,0,v3,2,,wug,yes,true,wug,nomodifier,7/25/2019,14:58,290813,2,right,right
+0,0,v3,3,,toma,no,true,toma,nomodifier,7/25/2019,14:58,2682,2,right,right
+0,0,v3,4,new,sprock,yes,true,sprock,new,7/25/2019,14:58,2685,2,right,right
+0,0,v3,5,new,koba,no,true,koba,new,7/25/2019,14:58,2426,1,left,left
+0,0,v3,6,,boti,no,false,boti,nomodifier,7/25/2019,14:58,2505,2,right,left
+0,0,v3,7,,zorp,yes,true,zorp,nomodifier,7/25/2019,14:58,1420,2,right,right
+0,0,v3,8,new,gade,yes,true,gade,new,7/25/2019,14:58,2327,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+58,3,v4,1,,gade,no,false,gade,nomodifier,7/25/2019,15:03,19100,1,left,right
+58,3,v4,2,new,wug,no,true,wug,new,7/25/2019,15:03,7632,2,right,right
+58,3,v4,3,new,toma,yes,true,toma,new,7/25/2019,15:03,4191,2,right,right
+58,3,v4,4,,koba,yes,true,koba,nomodifier,7/25/2019,15:03,4290,2,right,right
+58,3,v4,5,new,boti,yes,false,boti,new,7/25/2019,15:03,5163,1,left,right
+58,3,v4,6,new,zorp,no,true,zorp,new,7/25/2019,15:03,3658,1,left,left
+58,3,v4,7,,sprock,no,true,sprock,nomodifier,7/25/2019,15:03,6621,2,right,right
+58,3,v4,8,,blicket,yes,true,blicket,nomodifier,7/25/2019,15:03,3097,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+59,4,v3,1,,toma,no,false,toma,nomodifier,7/25/2019,14:53,4420,2,right,left
+59,4,v3,2,,wug,yes,true,wug,nomodifier,7/25/2019,14:53,5589,2,right,right
+59,4,v3,3,new,blicket,no,true,blicket,new,7/25/2019,14:53,3456,2,right,right
+59,4,v3,4,new,sprock,yes,true,sprock,new,7/25/2019,14:53,4493,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+59,4,v3,5,new,koba,no,false,koba,new,7/25/2019,14:53,2792,1,left,right
+60,3,v4,1,,koba,yes,true,koba,nomodifier,7/25/2019,15:10,6605,2,right,right
+59,4,v3,6,,zorp,yes,false,zorp,nomodifier,7/25/2019,14:53,2697,1,left,right
+60,3,v4,2,,gade,no,false,gade,nomodifier,7/25/2019,15:10,5823,1,left,right
+59,4,v3,7,new,gade,yes,false,gade,new,7/25/2019,14:53,5302,2,right,left
+59,4,v3,8,,boti,no,false,boti,nomodifier,7/25/2019,14:53,2642,1,left,right
+60,3,v4,3,new,toma,yes,false,toma,new,7/25/2019,15:10,5597,2,right,left
+60,3,v4,4,new,wug,no,false,wug,new,7/25/2019,15:10,8393,1,left,right
+60,3,v4,5,new,boti,yes,false,boti,new,7/25/2019,15:10,4959,1,left,right
+60,3,v4,6,,sprock,no,false,sprock,nomodifier,7/25/2019,15:10,4840,1,left,right
+60,3,v4,7,new,zorp,no,false,zorp,new,7/25/2019,15:10,5094,2,right,left
+60,3,v4,8,,blicket,yes,false,blicket,nomodifier,7/25/2019,15:10,4917,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+61,5,v4,1,,koba,yes,true,koba,nomodifier,7/25/2019,15:45,3367,1,left,left
+61,5,v4,2,,gade,no,true,gade,nomodifier,7/25/2019,15:45,3762,2,right,right
+61,5,v4,3,new,toma,yes,true,toma,new,7/25/2019,15:45,1738,2,right,right
+61,5,v4,4,new,wug,no,true,wug,new,7/25/2019,15:45,2183,2,right,right
+61,5,v4,5,new,zorp,no,true,zorp,new,7/25/2019,15:45,5680,1,left,left
+61,5,v4,6,,blicket,yes,true,blicket,nomodifier,7/25/2019,15:45,3885,2,right,right
+61,5,v4,7,,sprock,no,false,sprock,nomodifier,7/25/2019,15:45,4923,1,left,right
+61,5,v4,8,new,boti,yes,true,boti,new,7/25/2019,15:45,2249,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,,zorp,no,false,zorp,nomodifier,7/30/2019,10:10,8648,2,right,left
+0,0,v1,2,new,sprock,no,false,sprock,new,7/30/2019,10:10,4795,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,blicket,no,true,blicket,new,7/30/2019,10:10,7222,1,left,left
+0,0,v3,2,new,sprock,yes,true,sprock,new,7/30/2019,10:10,3846,1,left,left
+0,0,v3,3,,wug,yes,true,wug,nomodifier,7/30/2019,10:10,1262,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,,koba,yes,true,koba,nomodifier,7/30/2019,10:09,4111,1,left,left
+0,0,v4,2,new,wug,no,true,wug,new,7/30/2019,10:09,3355,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+61,5,v1,1,new,sprock,no,true,sprock,new,7/30/2019,10:15,9740,1,left,left
+61,5,v1,2,new,blicket,yes,true,blicket,new,7/30/2019,10:15,10623,1,left,left
+61,5,v1,3,,zorp,no,false,zorp,nomodifier,7/30/2019,10:15,34433,2,right,left
+61,5,v1,4,,boti,yes,true,boti,nomodifier,7/30/2019,10:15,7337,1,left,left
+61,5,v1,6,,wug,no,true,wug,nomodifier,7/30/2019,10:15,8576,1,left,left
+61,5,v1,7,new,koba,yes,true,koba,new,7/30/2019,10:15,2435,1,left,left
+61,5,v1,8,,toma,yes,true,toma,nomodifier,7/30/2019,10:15,6013,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+62,5,v4,1,,koba,yes,true,koba,nomodifier,7/30/2019,10:31,3581,1,left,left
+63,6,v1,1,new,sprock,no,true,sprock,new,7/30/2019,10:16,3497,2,right,right
+62,5,v4,2,new,toma,yes,true,toma,new,7/30/2019,10:31,2711,1,left,left
+63,6,v1,2,new,blicket,yes,true,blicket,new,7/30/2019,10:16,3299,1,left,left
+62,5,v4,3,new,wug,no,true,wug,new,7/30/2019,10:31,3167,2,right,right
+63,6,v1,3,,boti,yes,true,boti,nomodifier,7/30/2019,10:16,2632,1,left,left
+63,6,v1,4,,zorp,no,true,zorp,nomodifier,7/30/2019,10:16,4052,1,left,left
+62,5,v4,4,,gade,no,true,gade,nomodifier,7/30/2019,10:31,4645,2,right,right
+63,6,v1,5,,toma,yes,true,toma,nomodifier,7/30/2019,10:16,3049,1,left,left
+62,5,v4,5,new,zorp,no,true,zorp,new,7/30/2019,10:31,6557,2,right,right
+62,5,v4,6,new,boti,yes,true,boti,new,7/30/2019,10:31,2551,1,left,left
+63,6,v1,6,,wug,no,true,wug,nomodifier,7/30/2019,10:16,8513,1,left,left
+62,5,v4,7,,blicket,yes,true,blicket,nomodifier,7/30/2019,10:31,3587,2,right,right
+63,6,v1,7,new,koba,yes,true,koba,new,7/30/2019,10:16,1877,1,left,left
+63,6,v1,8,new,gade,no,false,gade,new,7/30/2019,10:16,3273,2,right,left
+62,5,v4,8,,sprock,no,true,sprock,nomodifier,7/30/2019,10:31,6360,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v3,1,new,sprock,yes,true,sprock,new,7/30/2019,10:46,4994,1,left,left
+0,0,v4,1,,gade,no,false,gade,nomodifier,7/30/2019,10:46,14917,1,left,right
+0,0,v3,2,,wug,yes,true,wug,nomodifier,7/30/2019,10:46,4348,2,right,right
+0,0,v4,2,,koba,yes,false,koba,nomodifier,7/30/2019,10:46,6590,2,right,left
+0,0,v3,3,new,blicket,no,true,blicket,new,7/30/2019,10:46,6095,2,right,right
+0,0,v4,3,new,toma,yes,false,toma,new,7/30/2019,10:46,4647,1,left,right
+0,0,v3,4,,toma,no,true,toma,nomodifier,7/30/2019,10:46,3117,2,right,right
+0,0,v3,5,,zorp,yes,true,zorp,nomodifier,7/30/2019,10:46,8998,1,left,left
+0,0,v4,4,new,wug,no,true,wug,new,7/30/2019,10:46,16972,2,right,right
+0,0,v3,6,new,koba,no,true,koba,new,7/30/2019,10:46,3869,2,right,right
+0,0,v4,5,,sprock,no,true,sprock,nomodifier,7/30/2019,10:46,7490,1,left,left
+0,0,v3,7,,boti,no,false,boti,nomodifier,7/30/2019,10:46,4342,2,right,left
+0,0,v4,6,new,zorp,no,false,zorp,new,7/30/2019,10:46,12400,1,left,right
+0,0,v3,8,new,gade,yes,true,gade,new,7/30/2019,10:46,5781,2,right,right
+0,0,v4,7,,blicket,yes,false,blicket,nomodifier,7/30/2019,10:46,9383,2,right,left
+0,0,v4,8,new,boti,yes,false,boti,new,7/30/2019,10:46,3015,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+64,4,v4,1,new,toma,yes,false,toma,new,7/30/2019,11:10,11871,1,left,right
+64,4,v4,2,,koba,yes,true,koba,nomodifier,7/30/2019,11:10,2929,2,right,right
+64,4,v4,3,new,wug,no,true,wug,new,7/30/2019,11:10,3059,2,right,right
+64,4,v4,4,,gade,no,false,gade,nomodifier,7/30/2019,11:10,7302,2,right,left
+64,4,v4,5,new,boti,yes,true,boti,new,7/30/2019,11:10,8244,2,right,right
+64,4,v4,6,,sprock,no,true,sprock,nomodifier,7/30/2019,11:10,7162,1,left,left
+64,4,v4,7,,blicket,yes,true,blicket,nomodifier,7/30/2019,11:10,5164,2,right,right
+64,4,v4,8,new,zorp,no,true,zorp,new,7/30/2019,11:10,10453,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+65,5,v4,1,new,toma,yes,true,toma,new,7/30/2019,11:29,5599,2,right,right
+65,5,v4,2,,gade,no,false,gade,nomodifier,7/30/2019,11:29,7274,2,right,left
+65,5,v4,3,,koba,yes,true,koba,nomodifier,7/30/2019,11:29,2844,1,left,left
+65,5,v4,4,new,wug,no,false,wug,new,7/30/2019,11:29,5723,2,right,left
+65,5,v4,5,,sprock,no,false,sprock,nomodifier,7/30/2019,11:29,3914,2,right,left
+65,5,v4,6,new,boti,yes,true,boti,new,7/30/2019,11:29,4028,2,right,right
+65,5,v4,7,,blicket,yes,true,blicket,nomodifier,7/30/2019,11:29,4184,1,left,left
+65,5,v4,8,new,zorp,no,false,zorp,new,7/30/2019,11:29,5334,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+66,4,v4,1,,gade,no,true,gade,nomodifier,7/30/2019,11:33,18041,2,right,right
+66,4,v4,2,new,wug,no,false,wug,new,7/30/2019,11:33,10814,1,left,right
+66,4,v4,3,,koba,yes,false,koba,nomodifier,7/30/2019,11:33,4477,1,left,right
+66,4,v4,4,new,toma,yes,false,toma,new,7/30/2019,11:33,4078,2,right,left
+66,4,v4,5,new,boti,yes,false,boti,new,7/30/2019,11:33,8021,1,left,right
+66,4,v4,6,,sprock,no,false,sprock,nomodifier,7/30/2019,11:33,4275,2,right,left
+66,4,v4,7,,blicket,yes,false,blicket,nomodifier,7/30/2019,11:33,3879,1,left,right
+66,4,v4,8,new,zorp,no,false,zorp,new,7/30/2019,11:33,6117,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+67,4,v2,1,new,toma,no,true,toma,new,7/30/2019,11:10,4773,1,left,left
+67,4,v2,2,,blicket,no,true,blicket,nomodifier,7/30/2019,11:10,6369,1,left,left
+67,4,v2,3,,sprock,yes,false,sprock,nomodifier,7/30/2019,11:10,9952,2,right,left
+67,4,v2,4,new,wug,yes,true,wug,new,7/30/2019,11:10,2381,1,left,left
+67,4,v2,5,new,boti,no,true,boti,new,7/30/2019,11:10,4419,2,right,right
+67,4,v2,6,new,zorp,yes,true,zorp,new,7/30/2019,11:10,1540,2,right,right
+67,4,v2,7,,koba,no,true,koba,nomodifier,7/30/2019,11:10,13944,1,left,left
+67,4,v2,8,,gade,yes,true,gade,nomodifier,7/30/2019,11:10,6450,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,NaN,v2,1,new,wug,yes,true,wug,new,7/30/2019,13:00,14252,1,left,left
+0,NaN,v2,2,,blicket,no,false,blicket,nomodifier,7/30/2019,13:00,3901,2,right,left
+0,NaN,v2,3,,sprock,yes,true,sprock,nomodifier,7/30/2019,13:00,4058,1,left,left
+0,NaN,v2,4,new,toma,no,false,toma,new,7/30/2019,13:00,8507,2,right,left
+0,NaN,v2,5,,gade,yes,true,gade,nomodifier,7/30/2019,13:00,4332,1,left,left
+0,NaN,v2,6,,koba,no,false,koba,nomodifier,7/30/2019,13:00,5810,2,right,left
+0,NaN,v2,8,new,zorp,yes,false,zorp,new,7/30/2019,13:00,3354,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+00,0,v4,2,,gade,no,true,gade,nomodifier,7/30/2019,13:49,5266,1,left,left
+00,0,v4,3,new,toma,yes,true,toma,new,7/30/2019,13:49,1376,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+00,0,v4,4,new,wug,no,true,wug,new,7/30/2019,13:49,3663,2,right,right
+0,0,v3,1,new,sprock,yes,false,sprock,new,7/30/2019,13:50,6858,1,left,right
+00,0,v4,5,new,boti,yes,true,boti,new,7/30/2019,13:49,2835,2,right,right
+00,0,v4,6,new,zorp,no,true,zorp,new,7/30/2019,13:49,1392,1,left,left
+00,0,v4,7,,blicket,yes,true,blicket,nomodifier,7/30/2019,13:49,1342,1,left,left
+0,0,v3,2,,wug,yes,false,wug,nomodifier,7/30/2019,13:50,21734,1,left,right
+00,0,v4,8,,sprock,no,false,sprock,nomodifier,7/30/2019,13:49,1377,2,right,left
+0,0,v3,3,,toma,no,false,toma,nomodifier,7/30/2019,13:50,2698,2,right,left
+0,0,v3,4,new,blicket,no,true,blicket,new,7/30/2019,13:50,2779,2,right,right
+0,0,v3,5,,boti,no,true,boti,nomodifier,7/30/2019,13:50,1727,1,left,left
+0,0,v3,6,new,koba,no,false,koba,new,7/30/2019,13:50,3604,1,left,right
+0,0,v3,7,new,gade,yes,true,gade,new,7/30/2019,13:50,46045,2,right,right
+0,0,v3,8,,zorp,yes,false,zorp,nomodifier,7/30/2019,13:50,6101,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+68,3,v4,1,,gade,no,false,gade,nomodifier,7/30/2019,13:53,9303,1,left,right
+68,3,v4,2,new,toma,yes,true,toma,new,7/30/2019,13:53,4764,1,left,left
+68,3,v4,3,,koba,yes,true,koba,nomodifier,7/30/2019,13:53,3456,1,left,left
+68,3,v4,4,new,wug,no,true,wug,new,7/30/2019,13:53,12971,2,right,right
+68,3,v4,5,,blicket,yes,true,blicket,nomodifier,7/30/2019,13:53,4045,2,right,right
+68,3,v4,6,new,boti,yes,true,boti,new,7/30/2019,13:53,3521,1,left,left
+68,3,v4,7,new,zorp,no,true,zorp,new,7/30/2019,13:53,6527,2,right,right
+68,3,v4,8,,sprock,no,true,sprock,nomodifier,7/30/2019,13:53,5279,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,1,,sprock,yes,true,sprock,nomodifier,7/31/2019,10:11,3723,1,left,left
+0,0,v2,2,,blicket,no,false,blicket,nomodifier,7/31/2019,10:11,3728,2,right,left
+0,0,v2,3,new,toma,no,false,toma,new,7/31/2019,10:11,3374,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,new,sprock,no,false,sprock,new,7/31/2019,10:10,4411,1,left,right
+0,0,v1,2,new,blicket,yes,true,blicket,new,7/31/2019,10:10,30748,2,right,right
+0,0,v1,3,,boti,yes,true,boti,nomodifier,7/31/2019,10:10,2849,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+69,5,v2,1,,blicket,no,true,blicket,nomodifier,7/31/2019,10:13,11027,1,left,left
+69,5,v2,2,,sprock,yes,true,sprock,nomodifier,7/31/2019,10:13,2605,2,right,right
+69,5,v2,3,new,wug,yes,true,wug,new,7/31/2019,10:13,5583,2,right,right
+69,5,v2,4,new,toma,no,true,toma,new,7/31/2019,10:13,4544,2,right,right
+69,5,v2,5,new,boti,no,false,boti,new,7/31/2019,10:13,3261,1,left,right
+69,5,v2,6,,gade,yes,true,gade,nomodifier,7/31/2019,10:13,7255,2,right,right
+69,5,v2,7,new,zorp,yes,true,zorp,new,7/31/2019,10:13,2020,2,right,right
+69,5,v2,8,,koba,no,false,koba,nomodifier,7/31/2019,10:13,2328,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+70,5,v4,1,new,wug,no,true,wug,new,7/31/2019,10:52,5512,2,right,right
+70,5,v4,2,,gade,no,true,gade,nomodifier,7/31/2019,10:52,16555,1,left,left
+70,5,v4,3,new,toma,yes,true,toma,new,7/31/2019,10:52,4488,1,left,left
+70,5,v4,4,,koba,yes,true,koba,nomodifier,7/31/2019,10:52,8291,1,left,left
+70,5,v4,5,new,zorp,no,true,zorp,new,7/31/2019,10:52,3960,2,right,right
+70,5,v4,6,,sprock,no,true,sprock,nomodifier,7/31/2019,10:52,2606,1,left,left
+70,5,v4,7,new,boti,yes,true,boti,new,7/31/2019,10:52,4176,2,right,right
+70,5,v4,8,,blicket,yes,true,blicket,nomodifier,7/31/2019,10:52,6411,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+71,6,v4,1,,gade,no,true,gade,nomodifier,7/31/2019,12:48,17833,2,right,right
+71,6,v4,2,new,toma,yes,true,toma,new,7/31/2019,12:48,7211,2,right,right
+71,6,v4,3,new,wug,no,false,wug,new,7/31/2019,12:48,19744,2,right,left
+71,6,v4,4,,koba,yes,true,koba,nomodifier,7/31/2019,12:48,6495,1,left,left
+71,6,v4,5,new,zorp,no,false,zorp,new,7/31/2019,12:48,8609,1,left,right
+71,6,v4,6,,blicket,yes,true,blicket,nomodifier,7/31/2019,12:48,8314,2,right,right
+71,6,v4,7,,sprock,no,false,sprock,nomodifier,7/31/2019,12:48,10981,2,right,left
+71,6,v4,8,new,boti,yes,true,boti,new,7/31/2019,12:48,7101,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+72,4,v4,1,,koba,yes,true,koba,nomodifier,7/31/2019,12:59,4540,1,left,left
+72,4,v4,2,new,wug,no,true,wug,new,7/31/2019,12:59,3311,1,left,left
+72,4,v4,3,,gade,no,true,gade,nomodifier,7/31/2019,12:59,7521,1,left,left
+72,4,v4,4,new,toma,yes,true,toma,new,7/31/2019,12:59,2768,2,right,right
+72,4,v4,5,new,boti,yes,true,boti,new,7/31/2019,12:59,2227,1,left,left
+72,4,v4,6,,blicket,yes,true,blicket,nomodifier,7/31/2019,12:59,3712,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+73,4,v3,1,new,blicket,no,false,blicket,new,7/31/2019,13:04,15008,1,left,right
+74,4,v3,1,,toma,no,true,toma,nomodifier,7/31/2019,10:15,24676,1,left,left
+73,4,v3,2,,wug,yes,true,wug,nomodifier,7/31/2019,13:04,10546,1,left,left
+74,4,v3,2,,wug,yes,true,wug,nomodifier,7/31/2019,10:15,5596,2,right,right
+73,4,v3,3,new,sprock,yes,false,sprock,new,7/31/2019,13:04,3593,1,left,right
+74,4,v3,3,new,blicket,no,true,blicket,new,7/31/2019,10:15,5859,1,left,left
+73,4,v3,4,,toma,no,false,toma,nomodifier,7/31/2019,13:04,6877,2,right,left
+74,4,v3,4,new,sprock,yes,true,sprock,new,7/31/2019,10:15,9200,2,right,right
+73,4,v3,5,new,gade,yes,false,gade,new,7/31/2019,13:04,4867,2,right,left
+74,4,v3,5,,boti,no,true,boti,nomodifier,7/31/2019,10:15,7358,1,left,left
+73,4,v3,6,,boti,no,false,boti,nomodifier,7/31/2019,13:04,6199,2,right,left
+74,4,v3,6,,zorp,yes,true,zorp,nomodifier,7/31/2019,10:15,3513,2,right,right
+73,4,v3,7,new,koba,no,false,koba,new,7/31/2019,13:04,6510,2,right,left
+74,4,v3,7,new,gade,yes,true,gade,new,7/31/2019,10:15,9482,2,right,right
+73,4,v3,8,,zorp,yes,false,zorp,nomodifier,7/31/2019,13:04,7120,1,left,right
+74,4,v3,8,new,koba,no,true,koba,new,7/31/2019,10:15,9380,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+75,5,v1,1,,zorp,no,false,zorp,nomodifier,7/31/2019,13:47,9547,2,right,left
+75,5,v1,2,,boti,yes,true,boti,nomodifier,7/31/2019,13:47,2174,2,right,right
+75,5,v1,3,new,blicket,yes,true,blicket,new,7/31/2019,13:47,3088,1,left,left
+75,5,v1,4,new,sprock,no,true,sprock,new,7/31/2019,13:47,3517,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+76,3,v3,1,,toma,no,true,toma,nomodifier,7/31/2019,13:47,3356,2,right,right
+75,5,v1,5,,toma,yes,true,toma,nomodifier,7/31/2019,13:47,4064,1,left,left
+76,3,v3,2,new,sprock,yes,true,sprock,new,7/31/2019,13:47,2505,1,left,left
+75,5,v1,6,new,koba,yes,true,koba,new,7/31/2019,13:47,15048,2,right,right
+76,3,v3,3,new,blicket,no,true,blicket,new,7/31/2019,13:47,4551,1,left,left
+76,3,v3,4,,wug,yes,true,wug,nomodifier,7/31/2019,13:47,4478,2,right,right
+75,5,v1,7,new,gade,no,false,gade,new,7/31/2019,13:47,7927,1,left,right
+76,3,v3,5,,boti,no,true,boti,nomodifier,7/31/2019,13:47,3170,2,right,right
+75,5,v1,8,,wug,no,false,wug,nomodifier,7/31/2019,13:47,4290,2,right,left
+76,3,v3,6,new,gade,yes,true,gade,new,7/31/2019,13:47,3428,2,right,right
+76,3,v3,7,new,koba,no,true,koba,new,7/31/2019,13:47,8905,1,left,left
+76,3,v3,8,,zorp,yes,true,zorp,nomodifier,7/31/2019,13:47,4202,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+77,4,v4,1,,gade,no,true,gade,nomodifier,7/31/2019,14:16,8778,1,left,left
+77,4,v4,2,,koba,yes,true,koba,nomodifier,7/31/2019,14:16,9343,2,right,right
+77,4,v4,3,new,toma,yes,true,toma,new,7/31/2019,14:16,7314,2,right,right
+77,4,v4,4,new,wug,no,true,wug,new,7/31/2019,14:16,5458,2,right,right
+77,4,v4,6,new,zorp,no,true,zorp,new,7/31/2019,14:16,5072,2,right,right
+77,4,v4,8,,blicket,yes,true,blicket,nomodifier,7/31/2019,14:16,4827,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+78,5,v3,1,new,sprock,yes,true,sprock,new,7/31/2019,14:17,6005,1,left,left
+78,5,v3,2,,toma,no,false,toma,nomodifier,7/31/2019,14:17,3508,2,right,left
+78,5,v3,3,new,blicket,no,false,blicket,new,7/31/2019,14:17,3437,1,left,right
+78,5,v3,4,,wug,yes,false,wug,nomodifier,7/31/2019,14:17,4061,1,left,right
+78,5,v3,5,new,gade,yes,false,gade,new,7/31/2019,14:17,4340,1,left,right
+78,5,v3,6,,boti,no,false,boti,nomodifier,7/31/2019,14:17,2765,1,left,right
+78,5,v3,7,,zorp,yes,false,zorp,nomodifier,7/31/2019,14:17,6654,2,right,left
+78,5,v3,8,new,koba,no,false,koba,new,7/31/2019,14:17,2357,1,left,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+79,3,v4,1,,gade,no,false,gade,nomodifier,7/31/2019,14:20,40744,2,right,left
+79,3,v4,2,new,wug,no,false,wug,new,7/31/2019,14:20,5848,2,right,left
+79,3,v4,3,new,toma,yes,true,toma,new,7/31/2019,14:20,48079,2,right,right
+79,3,v4,4,,koba,yes,false,koba,nomodifier,7/31/2019,14:20,3822,1,left,right
+79,3,v4,5,new,zorp,no,false,zorp,new,7/31/2019,14:20,3410,2,right,left
+79,3,v4,6,,sprock,no,false,sprock,nomodifier,7/31/2019,14:20,9410,1,left,right
+79,3,v4,7,new,boti,yes,true,boti,new,7/31/2019,14:20,5841,1,left,left
+79,3,v4,8,,blicket,yes,false,blicket,nomodifier,7/31/2019,14:20,11184,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+80,6,v2,1,,blicket,no,true,blicket,nomodifier,7/31/2019,14:43,4628,1,left,left
+80,6,v2,2,new,wug,yes,true,wug,new,7/31/2019,14:43,1938,1,left,left
+81,4,v2,1,,blicket,no,true,blicket,nomodifier,7/31/2019,14:26,4571,1,left,left
+80,6,v2,3,,sprock,yes,true,sprock,nomodifier,7/31/2019,14:43,1656,2,right,right
+81,4,v2,2,,sprock,yes,true,sprock,nomodifier,7/31/2019,14:26,4277,2,right,right
+80,6,v2,4,new,toma,no,false,toma,new,7/31/2019,14:43,5539,1,left,right
+81,4,v2,3,new,toma,no,true,toma,new,7/31/2019,14:26,3413,1,left,left
+80,6,v2,5,,gade,yes,true,gade,nomodifier,7/31/2019,14:43,1490,2,right,right
+81,4,v2,4,new,wug,yes,true,wug,new,7/31/2019,14:26,2795,1,left,left
+80,6,v2,6,new,zorp,yes,true,zorp,new,7/31/2019,14:43,1398,2,right,right
+81,4,v2,5,,koba,no,true,koba,nomodifier,7/31/2019,14:26,4313,1,left,left
+81,4,v2,6,new,zorp,yes,true,zorp,new,7/31/2019,14:26,2828,1,left,left
+80,6,v2,8,new,boti,no,true,boti,new,7/31/2019,14:43,4894,1,left,left
+81,4,v2,7,new,boti,no,true,boti,new,7/31/2019,14:26,6312,1,left,left
+81,4,v2,8,,gade,yes,false,gade,nomodifier,7/31/2019,14:26,9963,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+82,4,v3,1,new,blicket,no,true,blicket,new,7/31/2019,15:00,4126,1,left,left
+82,4,v3,2,new,sprock,yes,true,sprock,new,7/31/2019,15:00,4618,2,right,right
+82,4,v3,3,,wug,yes,true,wug,nomodifier,7/31/2019,15:00,7467,2,right,right
+82,4,v3,4,,toma,no,true,toma,nomodifier,7/31/2019,15:00,3322,2,right,right
+82,4,v3,5,new,gade,yes,true,gade,new,7/31/2019,15:00,3263,1,left,left
+82,4,v3,6,new,koba,no,true,koba,new,7/31/2019,15:00,2578,2,right,right
+82,4,v3,7,,boti,no,false,boti,nomodifier,7/31/2019,15:00,11797,1,left,right
+82,4,v3,8,,zorp,yes,true,zorp,nomodifier,7/31/2019,15:00,2430,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,,koba,yes,true,koba,nomodifier,8/1/2019,10:09,3443,2,right,right
+0,0,v4,2,new,toma,yes,true,toma,new,8/1/2019,10:09,1310,2,right,right
+0,0,v4,3,,gade,no,false,gade,nomodifier,8/1/2019,10:09,3673,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,4,new,wug,no,true,wug,new,8/1/2019,10:09,2870,1,left,left
+0,0,v2,1,,blicket,no,false,blicket,nomodifier,8/1/2019,10:10,2143,1,left,right
+0,0,v4,5,,sprock,no,false,sprock,nomodifier,8/1/2019,10:09,3103,2,right,left
+0,0,v2,2,new,toma,no,true,toma,new,8/1/2019,10:10,6841,2,right,right
+0,0,v4,6,new,zorp,no,true,zorp,new,8/1/2019,10:09,2545,1,left,left
+0,0,v4,7,new,boti,yes,true,boti,new,8/1/2019,10:09,7714,1,left,left
+0,0,v2,4,,sprock,yes,false,sprock,nomodifier,8/1/2019,10:10,6751,1,left,right
+0,0,v4,8,,blicket,yes,true,blicket,nomodifier,8/1/2019,10:09,3240,1,left,left
+0,0,v2,5,,gade,yes,true,gade,nomodifier,8/1/2019,10:10,1264,2,right,right
+0,0,v2,7,new,zorp,yes,true,zorp,new,8/1/2019,10:10,1164,2,right,right
+0,0,v2,8,new,boti,no,true,boti,new,8/1/2019,10:10,4540,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v2,1,,blicket,no,false,blicket,nomodifier,8/1/2019,10:14,4960,1,left,right
+0,0,v2,2,new,toma,no,true,toma,new,8/1/2019,10:14,4362,1,left,left
+0,0,v2,3,,sprock,yes,true,sprock,nomodifier,8/1/2019,10:14,1815,1,left,left
+0,0,v2,4,new,wug,yes,true,wug,new,8/1/2019,10:14,3824,2,right,right
+0,0,v2,5,new,zorp,yes,true,zorp,new,8/1/2019,10:14,1701,1,left,left
+0,0,v2,6,new,boti,no,true,boti,new,8/1/2019,10:14,1680,1,left,left
+0,0,v2,7,,koba,no,false,koba,nomodifier,8/1/2019,10:14,1402,2,right,left
+0,0,v2,8,,gade,yes,true,gade,nomodifier,8/1/2019,10:14,1162,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,,boti,yes,false,boti,nomodifier,8/1/2019,10:15,2262,1,left,right
+0,0,v1,2,new,blicket,yes,false,blicket,new,8/1/2019,10:15,5001,1,left,right
+0,0,v1,3,,zorp,no,true,zorp,nomodifier,8/1/2019,10:15,3874,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v1,1,new,sprock,no,true,sprock,new,8/1/2019,10:18,5752,2,right,right
+0,0,v1,2,,boti,yes,true,boti,nomodifier,8/1/2019,10:18,2723,2,right,right
+0,0,v1,3,,zorp,no,true,zorp,nomodifier,8/1/2019,10:18,1845,1,left,left
+0,0,v1,4,new,blicket,yes,false,blicket,new,8/1/2019,10:18,3883,2,right,left
+0,0,v1,5,,wug,no,false,wug,nomodifier,8/1/2019,10:18,2637,2,right,left
+0,0,v1,6,new,gade,no,false,gade,new,8/1/2019,10:18,2390,2,right,left
+0,0,v1,7,new,koba,yes,false,koba,new,8/1/2019,10:18,14336,2,right,left
+0,0,v1,8,,toma,yes,false,toma,nomodifier,8/1/2019,10:18,2470,2,right,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+83,4,v1,1,new,sprock,no,true,sprock,new,8/1/2019,11:13,15004,2,right,right
+83,4,v1,2,,boti,yes,true,boti,nomodifier,8/1/2019,11:13,3973,1,left,left
+83,4,v1,3,,zorp,no,false,zorp,nomodifier,8/1/2019,11:13,3709,1,left,right
+83,4,v1,4,new,blicket,yes,true,blicket,new,8/1/2019,11:13,1710,1,left,left
+83,4,v1,5,new,koba,yes,true,koba,new,8/1/2019,11:13,18158,2,right,right
+83,4,v1,6,,toma,yes,true,toma,nomodifier,8/1/2019,11:13,11484,1,left,left
+83,4,v1,7,,wug,no,true,wug,nomodifier,8/1/2019,11:13,2744,2,right,right
+83,4,v1,8,new,gade,no,true,gade,new,8/1/2019,11:13,6803,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+84,3,v1,1,,boti,yes,true,boti,nomodifier,8/1/2019,11:59,5376,1,left,left
+84,3,v1,2,,zorp,no,false,zorp,nomodifier,8/1/2019,11:59,4584,2,right,left
+84,3,v1,3,new,blicket,yes,false,blicket,new,8/1/2019,11:59,6215,1,left,right
+84,3,v1,4,new,sprock,no,false,sprock,new,8/1/2019,11:59,7589,2,right,left
+84,3,v1,5,new,gade,no,true,gade,new,8/1/2019,11:59,7849,1,left,left
+84,3,v1,6,,toma,yes,true,toma,nomodifier,8/1/2019,11:59,8909,1,left,left
+84,3,v1,7,,wug,no,false,wug,nomodifier,8/1/2019,11:59,5999,2,right,left
+84,3,v1,8,new,koba,yes,true,koba,new,8/1/2019,11:59,7737,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+85,5,v2,1,,sprock,yes,false,sprock,nomodifier,8/1/2019,11:59,26118,1,left,right
+85,5,v2,2,new,wug,yes,true,wug,new,8/1/2019,11:59,8650,1,left,left
+85,5,v2,3,new,toma,no,true,toma,new,8/1/2019,11:59,3439,2,right,right
+85,5,v2,4,,blicket,no,true,blicket,nomodifier,8/1/2019,11:59,2703,2,right,right
+85,5,v2,5,,gade,yes,true,gade,nomodifier,8/1/2019,11:59,15754,2,right,right
+85,5,v2,6,new,zorp,yes,true,zorp,new,8/1/2019,11:59,2751,2,right,right
+85,5,v2,7,new,boti,no,true,boti,new,8/1/2019,11:59,2559,2,right,right
+85,5,v2,8,,koba,no,true,koba,nomodifier,8/1/2019,11:59,2812,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+86,4,v3,1,new,sprock,yes,true,sprock,new,8/1/2019,13:07,5966,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+86,4,v3,2,,wug,yes,true,wug,nomodifier,8/1/2019,13:07,1658,1,left,left
+87,3,v3,1,new,sprock,yes,true,sprock,new,8/1/2019,13:07,6776,1,left,left
+86,4,v3,3,,toma,no,true,toma,nomodifier,8/1/2019,13:07,4282,1,left,left
+87,3,v3,2,new,blicket,no,false,blicket,new,8/1/2019,13:07,5174,1,left,right
+86,4,v3,4,new,blicket,no,true,blicket,new,8/1/2019,13:07,1506,1,left,left
+86,4,v3,5,new,gade,yes,true,gade,new,8/1/2019,13:07,3260,1,left,left
+87,3,v3,4,,wug,yes,false,wug,nomodifier,8/1/2019,13:07,6048,1,left,right
+86,4,v3,6,,zorp,yes,true,zorp,nomodifier,8/1/2019,13:07,4600,2,right,right
+87,3,v3,5,new,gade,yes,true,gade,new,8/1/2019,13:07,4982,2,right,right
+86,4,v3,7,,boti,no,true,boti,nomodifier,8/1/2019,13:07,3287,1,left,left
+86,4,v3,8,new,koba,no,true,koba,new,8/1/2019,13:07,2945,2,right,right
+87,3,v3,6,,boti,no,true,boti,nomodifier,8/1/2019,13:07,3413,1,left,left
+87,3,v3,7,new,koba,no,true,koba,new,8/1/2019,13:07,3821,2,right,right
+87,3,v3,8,,zorp,yes,true,zorp,nomodifier,8/1/2019,13:07,7048,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+88,3,v4,1,new,wug,no,true,wug,new,8/1/2019,13:13,6113,1,left,left
+88,3,v4,2,,koba,yes,true,koba,nomodifier,8/1/2019,13:13,5323,1,left,left
+88,3,v4,3,,gade,no,true,gade,nomodifier,8/1/2019,13:13,6747,1,left,left
+88,3,v4,4,new,toma,yes,true,toma,new,8/1/2019,13:13,6719,1,left,left
+88,3,v4,5,new,zorp,no,false,zorp,new,8/1/2019,13:13,2545,2,right,left
+88,3,v4,6,,blicket,yes,false,blicket,nomodifier,8/1/2019,13:13,2660,2,right,left
+88,3,v4,7,,sprock,no,false,sprock,nomodifier,8/1/2019,13:13,2718,2,right,left
+88,3,v4,8,new,boti,yes,true,boti,new,8/1/2019,13:13,2394,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+89,6,v1,1,,zorp,no,true,zorp,nomodifier,8/1/2019,13:13,19159,1,left,left
+89,6,v1,2,,boti,yes,true,boti,nomodifier,8/1/2019,13:13,2589,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+89,6,v1,3,new,blicket,yes,true,blicket,new,8/1/2019,13:13,8537,2,right,right
+90,3,v1,1,new,blicket,yes,false,blicket,new,8/1/2019,13:27,16323,2,right,left
+89,6,v1,4,new,sprock,no,true,sprock,new,8/1/2019,13:13,7018,1,left,left
+89,6,v1,5,,toma,yes,true,toma,nomodifier,8/1/2019,13:13,4073,2,right,right
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+0,0,v4,1,,gade,no,true,gade,nomodifier,8/1/2019,13:58,3199,2,right,right
+89,6,v1,6,new,koba,yes,true,koba,new,8/1/2019,13:13,3393,1,left,left
+90,3,v1,3,,zorp,no,true,zorp,nomodifier,8/1/2019,13:27,4415,2,right,right
+0,0,v4,2,new,toma,yes,true,toma,new,8/1/2019,13:58,5748,2,right,right
+89,6,v1,7,,wug,no,true,wug,nomodifier,8/1/2019,13:13,8266,1,left,left
+90,3,v1,4,,boti,yes,true,boti,nomodifier,8/1/2019,13:27,3233,1,left,left
+0,0,v4,3,,koba,yes,true,koba,nomodifier,8/1/2019,13:58,1120,2,right,right
+89,6,v1,8,new,gade,no,true,gade,new,8/1/2019,13:13,5596,1,left,left
+90,3,v1,5,new,gade,no,false,gade,new,8/1/2019,13:27,3709,2,right,left
+0,0,v4,4,new,wug,no,true,wug,new,8/1/2019,13:58,1986,1,left,left
+0,0,v4,5,new,zorp,no,true,zorp,new,8/1/2019,13:58,1455,2,right,right
+90,3,v1,6,,toma,yes,true,toma,nomodifier,8/1/2019,13:27,7911,2,right,right
+0,0,v4,6,new,boti,yes,true,boti,new,8/1/2019,13:58,1523,1,left,left
+90,3,v1,7,new,koba,yes,false,koba,new,8/1/2019,13:27,4537,1,left,right
+0,0,v4,7,,sprock,no,true,sprock,nomodifier,8/1/2019,13:58,1784,1,left,left
+90,3,v1,8,,wug,no,true,wug,nomodifier,8/1/2019,13:27,4791,2,right,right
+0,0,v4,8,,blicket,yes,true,blicket,nomodifier,8/1/2019,13:58,1275,1,left,left
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside 
+91,5,v3,1,,toma,no,true,toma,nomodifier,8/1/2019,14:02,4833,2,right,right
+91,5,v3,2,new,sprock,yes,true,sprock,new,8/1/2019,14:02,5277,2,right,right
+91,5,v3,3,new,blicket,no,true,blicket,new,8/1/2019,14:02,6956,2,right,right
+91,5,v3,4,,wug,yes,true,wug,nomodifier,8/1/2019,14:02,2770,2,right,right
+91,5,v3,5,,zorp,yes,true,zorp,nomodifier,8/1/2019,14:02,3369,2,right,right
+91,5,v3,6,new,gade,yes,true,gade,new,8/1/2019,14:02,3527,2,right,right
+91,5,v3,7,,boti,no,true,boti,nomodifier,8/1/2019,14:02,6159,2,right,right
+91,5,v3,8,new,koba,no,true,koba,new,8/1/2019,14:02,2588,2,right,right
