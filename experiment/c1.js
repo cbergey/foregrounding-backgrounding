@@ -6,7 +6,7 @@
 
 // ---------------- PARAMETERS ------------------
 
-var numtrials = 8;
+var numtrials = 4;
 
 var usesound = true;
 
@@ -86,43 +86,48 @@ progressHandler = function(e) {
 
 // STIMULI AND TRIAL TYPES
 
+var v1 = [["new","sprock","no"],["new","blicket","yes"],["","zorp","no"],["","boti","yes"]]
 
+var v2 = [["new","toma","no"],["new","wug","yes"],["","blicket","no"],["","sprock","yes"]]
 
+var v3 = [["new","blicket","no"],["new","sprock","yes"],["","toma","no"],["","wug","yes"]]
 
-var v1b1 = [["new","sprock","no"],["new","blicket","yes"],["","zorp","no"],["","boti","yes"]]
-var v1b2 = [["new","gade","no"],["new","koba","yes"],["","wug","no"],["","toma","yes"]]
+var v4 = [["new","wug","no"],["new","toma","yes"],["","gade","no"],["","koba","yes"]]
 
-var v2b1 = [["new","toma","no"],["new","wug","yes"],["","blicket","no"],["","sprock","yes"]]
-var v2b2 = [["new","boti","no"],["new","zorp","yes"],["","koba","no"],["","gade","yes"]]
-
-var v3b1 = [["new","blicket","no"],["new","sprock","yes"],["","toma","no"],["","wug","yes"]]
-var v3b2 = [["new","gade","yes"],["new","koba","no"],["","boti","no"],["","zorp","yes"]]
-
-var v4b1 = [["new","wug","no"],["new","toma","yes"],["","gade","no"],["","koba","yes"]]
-var v4b2 = [["new","zorp","no"],["new","boti","yes"],["","sprock","no"],["","blicket","yes"]]
-
-var versions = [[v1b1,v1b2,"v1"],[v2b1,v2b2,"v2"],[v3b1,v3b2,"v3"],[v4b1,v4b2,"v4"]]
+var versions = [[v1,"v1"],[v2,"v2"],[v3,"v3"],[v4,"v4"]]
 
 var words = ["blicket", "wug", "toma", "gade", "sprock", "koba", "zorp", "boti"];
 
+var wordsmap = {
+	"sprock": "gade",
+	"gade": "sprock",
+	"blicket": "koba",
+	"koba": "blicket",
+	"zorp":"wug",
+	"wug":"zorp",
+	"boti":"toma",
+	"toma":"boti"
+}
 
+var sides = [1,2,3,4]
+
+/* 
+side 1: target left, target name first
+side 2: target left, target name second
+side 3: target right, target name first
+side 4: target right, target name second
+*/
+
+/* old version of stimuli
+var v1b2 = [["new","gade","no"],["new","koba","yes"],["","wug","no"],["","toma","yes"]]
+var v2b2 = [["new","boti","no"],["new","zorp","yes"],["","koba","no"],["","gade","yes"]]
+var v3b2 = [["new","koba","no"],["new","gade","yes"],["","boti","no"],["","zorp","yes"]]
+var v4b2 = [["new","zorp","no"],["new","boti","yes"],["","sprock","no"],["","blicket","yes"]]
+*/
 
 
 //-----------------------------------------------
 
-var video;
-$(document).ready(function(){    
-    video = document.getElementsByTagName('video')[0];    
-    for (j = 0; j < v1.length; j++) {
-    	addSourceToVideo( video, "videos/" + v1[j][0] + v1[j][1] + v1[j][2] + ".mp4", "video/mp4");
-    	addSourceToVideo( video, "videos/" + v2[j][0] + v2[j][1] + v2[j][2] + ".mp4", "video/mp4");
-    	addSourceToVideo( video, "videos/" + v3[j][0] + v3[j][1] + v3[j][2] + ".mp4", "video/mp4");
-    	addSourceToVideo( video, "videos/" + v4[j][0] + v4[j][1] + v4[j][2] + ".mp4", "video/mp4");
-    	
-    }
-
-    //video.addEventListener("progress", progressHandler,false);       
-});
 
 
 $("#interactionvideo").attr("src", "videos/wugno.mp4")
@@ -130,6 +135,21 @@ var myvideo = document.getElementById("interactionvideo");
 myvideo.muted = true
 myvideo.pause()
 myvideo.play()
+
+var imagedict = {};
+var image;
+var imgurl = "";
+var imgname = "";
+for (i=0; i < words.length; i++) {
+	imgurl = "images/" + words[i] + ".png";
+	imgname = "" + words[i]
+	image = preloadImage(imgurl);
+	imagedict[imgname] = image;
+	imgurl = "images/" + words[i] + "distractor.png";
+	imgname = words[i] + "distractor"
+	image = preloadImage(imgurl);
+	imagedict[imgname] = image;
+}
 
 setTimeout(function () {showSlide("prestudy");}, 3000);
 
@@ -151,6 +171,8 @@ var experiment = {
 	response: "",
 
 	targetname: "",
+
+	sides: [],
 
 	chosetarget: false,
 
@@ -179,6 +201,10 @@ var experiment = {
 
 	objects: [],
 
+	sidesmatchorder: false,
+
+	targetnamefirst: false,
+
 
 	startexp: function() {
 
@@ -187,6 +213,7 @@ var experiment = {
 		setTimeout(function () {
 			experiment.start();
 		}, 1000);
+
 	},
 
 	pauseslide: function() {
@@ -194,33 +221,38 @@ var experiment = {
 		versions = shuffle(versions)
 		experiment.version = versions.pop()
 
-		var block1 = shuffle(experiment.version[0])
-		var block2 = shuffle(experiment.version[1])
+		experiment.trialtypes = shuffle(experiment.version[0])
 
-		experiment.trialtypes = block1.concat(block2)
-		
+		var video;
+		//$(document).ready(function(){    
+    	video = document.getElementsByTagName('video')[0];    
+    	for (j = 0; j < v1.length; j++) {
+    		console.log("loading video " + j)
+    		addSourceToVideo( video, "videos/" + v1[j][0] + v1[j][1] + v1[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v2[j][0] + v2[j][1] + v2[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v3[j][0] + v3[j][1] + v3[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v4[j][0] + v4[j][1] + v4[j][2] + ".mp4", "video/mp4");
+
+    	}
+
+    //video.addEventListener("progress", progressHandler,false);       
+	//})
+
 		if (usesound) {
 			for (i=0; i < words.length; i++) {
-		    	stimsound = new WebAudioAPISound("stimsounds/"+words[i]);
-		    	experiment.trialsounds.push(stimsound);
-		    	experiment.allstims.push(words[i]);
+				stimsound = new WebAudioAPISound("stimsounds/" + words[i] + wordsmap[words[i]]);
+				experiment.trialsounds.push(stimsound);
+				experiment.allstims.push("" + words[i] + wordsmap[words[i]]);
+				stimsound = new WebAudioAPISound("stimsounds/find" + words[i]);
+				experiment.trialsounds.push(stimsound);
+				experiment.allstims.push("find" + words[i]);
+				stimsound = new WebAudioAPISound("stimsounds/tap" + words[i]);
+				experiment.trialsounds.push(stimsound);
+				experiment.allstims.push("tap" + words[i]);
 			}
 		}
-		var imagedict = {};
-		var image;
-		var imgurl = "";
-		var imgname = "";
-		for (i=0; i < words.length; i++) {
-			imgurl = "images/" + words[i] + ".png";
-			imgname = "" + words[i]
-			image = preloadImage(imgurl);
-			imagedict[imgname] = image;
-			imgurl = "images/" + words[i] + "distractor.png";
-			imgname = words[i] + "distractor"
-			image = preloadImage(imgurl);
-			imagedict[imgname] = image;
 
-		}
+		experiment.sides = shuffle(sides)
 
 		$("#prestudy").hide();
 		$(startimg).attr("src", "images/orange-button.png");
@@ -273,6 +305,7 @@ var experiment = {
 		dataforRound += "," + experiment.counter + "," + experiment.trialtype[0] + "," + experiment.trialtype[1] + "," + experiment.trialtype[2] + "," + experiment.chosetarget + "," + experiment.targetname + "," + experiment.modifier;
 		dataforRound += "," + experiment.date + "," + experiment.timestamp + "," + experiment.rtsearch;
 		dataforRound += "," + experiment.targetpos + "," + experiment.targetside + "," + experiment.chosenside;
+		dataforRound += "," + experiment.sidesmatchorder + "," + experiment.targetnamefirst;
 		dataforRound += "\n";
 		$.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : dataforRound});
 		// use line below for mmturkey version
@@ -314,6 +347,7 @@ var experiment = {
 
 			experiment.targetname = experiment.trialtype[1]
 
+
 			if (experiment.trialtype[0] == "") {
 				experiment.modifier = "nomodifier";
 			} else {
@@ -334,36 +368,51 @@ var experiment = {
 			myvideo.pause()
 			myvideo.play()
 			
-			
-
-			
-			
 			//setTimeout(function() {$("#interactionvideo").show(); $("#interactionvideo").load();$("#videostage").fadeIn();},3000)
 
 			//$("#interactionvideo").autoplay = true
 
-			setTimeout(function() {experiment.next("selection");$("#videostage").fadeOut(100);}, 9000)
+			
+			myvideo.addEventListener('ended',myHandler,false);
+			function myHandler(e) {
+    			experiment.next("selection");$("#videostage").fadeOut(100);
+			}
+    		
+
+			//setTimeout(function() {experiment.next("selection");$("#videostage").fadeOut(100);}, 9000)
 
 			
 
 		} else if (phase == "selection") {
 
 			$("#selectionstage").hide()
+
+			experiment.side = experiment.sides[experiment.counter - 1]
 			
-			var flip = (Math.floor(Math.random() * 2) == 0)
-			console.log(flip)
-			if (Math.floor(Math.random() * 2) == 0) {
+			if (experiment.side == 1 || experiment.side == 2) {
 				experiment.targetside = "left"
 				experiment.targetpos = 1
 				$("#object1").attr("src", "images/" + experiment.trialtype[1] + ".png")
 				$("#object2").attr("src", "images/" + experiment.trialtype[1] + "distractor.png")
-				console.log("left")
-			} else {
+				if (experiment.side == 1) {
+					experiment.targetnamefirst = true;
+					experiment.sidesmatchorder = true;
+				} else {
+					experiment.targetnamefirst = false;
+					experiment.sidesmatchorder = false;
+				}
+			} else if (experiment.side == 3 || experiment.side == 4){
 				experiment.targetside = "right"
 				experiment.targetpos = 2
 				$("#object1").attr("src", "images/" + experiment.trialtype[1] + "distractor.png")
 				$("#object2").attr("src", "images/" + experiment.trialtype[1] + ".png")
-				console.log("right")
+				if (experiment.side == 3) {
+					experiment.targetnamefirst = true;
+					experiment.sidesmatchorder = false;
+				} else {
+					experiment.targetnamefirst = false;
+					experiment.sidesmatchorder = true;
+				}
 			}
 			$("#object1").hide()
 			$("#object2").hide()
@@ -434,25 +483,34 @@ var experiment = {
 				
 			}
 
-
 			setTimeout(function(){
-				trialsound = experiment.trialsounds[experiment.allstims.indexOf(experiment.targetname)]
+				if (experiment.targetnamefirst) {
+					trialsound = experiment.trialsounds[experiment.allstims.indexOf(experiment.targetname + wordsmap[experiment.targetname])]
+				} else {
+					trialsound = experiment.trialsounds[experiment.allstims.indexOf(wordsmap[experiment.targetname] + experiment.targetname)]
+				}
+				if (usesound) {trialsound.play();}
+				experiment.starttime = Date.now();
+			}, 1500);
+					
+			setTimeout(function(){
 				$("#object1").show()
 				$("#object2").show()
 				$("#selectionstage").fadeIn(500)
-				if (usesound) {setTimeout(function() {trialsound.play();}, 500)}
-				experiment.starttime = Date.now();
-				
+			}, 1500);
 
-			},300);
-					
+			setTimeout(function(){
+				trialsound = experiment.trialsounds[experiment.allstims.indexOf("find" + experiment.targetname)]
+				if (usesound) {trialsound.play();}
+			}, 4500);
 
-			
-			
-		    
-		    
-		    setTimeout(function() {experiment.canclick = true;}, 500)
+		    setTimeout(function() {experiment.canclick = true;}, 3000)
 
+
+		    setTimeout(function() {
+		    	trialsound = experiment.trialsounds[experiment.allstims.indexOf("tap" + experiment.targetname)]
+				if (usesound && experiment.canclick) {trialsound.play();}
+		    }, 6500)
 		} 
 	},
 

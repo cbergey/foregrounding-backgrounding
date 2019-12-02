@@ -22,43 +22,108 @@ library(knitr)
 library(tidyboot)
 library(lme4)
 library(broom.mixed)
+library(RColorBrewer)
 
 theme_set(theme_classic(base_size = 16))
 ```
 
 ```{r read-data,  message = FALSE, warning = FALSE}
-data <- read_csv(here("data/foregroundingv2-3.csv")) %>%
-  filter(subid != 0, subid != "subid") %>%
+data <- read_csv(here("data/foregroundingv2-4.csv")) %>%
+  filter(subid != 0, subage != 0, subid != "subid") %>%
   mutate_at(c("subid", "subage", "counter"), as.numeric) %>%
   mutate(chosetarget = as.logical(chosetarget)) %>%
   mutate(subid = paste0(subage, "_", subid))
-
 ```
 
 ```{r plot_data}
 mean_data <- data %>%
+  mutate(counterbin = counter > 4,
+         counterbin = factor(counterbin, levels = c(F, T), 
+                             labels = c("early", "late")),
+         agebin = subage > 4,
+         agebin = factor(agebin, levels = c(F, T), 
+                             labels = c("young", "old"))) %>%
+  group_by(modifier, response, agebin, counterbin, subid) %>%
+  summarise(chosetarget = mean(chosetarget)) %>%
+  tidyboot_mean(chosetarget) 
+
+mean_data_nofacets <- data %>%
   filter(counter <= 4) %>%
-  #mutate(age_bin = subage > 4) %>%
   group_by(modifier, response, subid) %>%
   summarise(chosetarget = mean(chosetarget)) %>%
   tidyboot_mean(chosetarget) 
 
+mean_data_nofacets %>%
+  ggplot(aes(x = modifier, y = empirical_stat, fill = response)) + 
+  geom_col(stat = "identity",
+                      position = position_dodge()) +
+  geom_linerange(aes(ymin = ci_lower, ymax = ci_upper),
+                 position = position_dodge(0.9)) +
+  scale_fill_brewer(palette = "Purples")
+
 mean_data %>%
-  ggplot(aes(x = modifier, y = empirical_stat, color = response)) + 
-  geom_pointrange(aes(ymin = ci_lower, ymax = ci_upper),
-                      position = position_dodge(.5)) 
+  ggplot(aes(x = modifier, y = empirical_stat, fill = response)) + 
+  geom_col(stat = "identity",
+                      position = position_dodge()) +
+  geom_linerange(aes(ymin = ci_lower, ymax = ci_upper),
+                 position = position_dodge(0.9)) +
+  scale_fill_brewer(palette = "Purples") +
+  facet_grid(~ agebin)
    
 mean_data %>%
-  ggplot(aes(x = response, y = empirical_stat, color = modifier)) + 
+  ggplot(aes(x = response, y = empirical_stat, color = modifier)) +
+  facet_wrap(~age_bin) + 
   geom_pointrange(aes(ymin = ci_lower, ymax = ci_upper),
                       position = position_dodge(.5)) 
 ```
 
+
+
+```{r}
+
+rt_means <- data %>%
+  mutate(rtsearch = log(as.numeric(rtsearch))) %>%
+  mutate(counterbin = counter > 4,
+         counterbin = factor(counterbin, levels = c(F, T), 
+                             labels = c("early", "late")),
+         agebin = subage > 4,
+         agebin = factor(agebin, levels = c(F, T), 
+                             labels = c("young", "old"))) %>%
+  group_by(modifier, response, counterbin, agebin, subid) %>%
+  summarise(rtsearch = mean(rtsearch)) %>%
+  tidyboot_mean(rtsearch) 
+
+rt_means %>%
+  ggplot(aes(x = modifier, y = empirical_stat, color = response)) + 
+  # geom_col(stat = "identity",
+                     # position = position_dodge()) +
+  geom_pointrange(aes(ymin = ci_lower, ymax = ci_upper),
+                 position = position_dodge(0.9)) +
+  scale_fill_brewer(palette = "Purples") +
+  facet_grid(agebin ~ counterbin)
+
+
+```
+
+
 ```{r model}
 data %>%
   #filter(counter <= 4) %>%
+  #mutate(age_bin = subage > 4) %>%
   glmer(chosetarget ~ modifier * response + (1|subid),
         family = "binomial", data = .) %>%
+  tidy() %>%
+  filter(effect == "fixed") %>%
+  select(-effect, - group) %>%
+  kable()
+
+data %>%
+  filter(counter <= 4) %>%
+  mutate(rtsearch = log(as.numeric(rtsearch)),
+         modifier = factor(modifier, levels = c("nomodifier", "new")),
+         response = factor(response, levels = c("yes", "no"))) %>%
+  #mutate(age_bin = subage > 4) %>% 
+  lmer(rtsearch ~ modifier * response + (1|subid), data = .) %>%
   tidy() %>%
   filter(effect == "fixed") %>%
   select(-effect, - group) %>%
