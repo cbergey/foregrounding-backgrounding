@@ -94,7 +94,15 @@ var v3 = [["new","blicket","no"],["new","sprock","yes"],["","toma","no"],["","wu
 
 var v4 = [["new","wug","no"],["new","toma","yes"],["","gade","no"],["","koba","yes"]]
 
-var versions = [[v1,"v1"],[v2,"v2"],[v3,"v3"],[v4,"v4"]]
+var v5 = [["new","gade","no"],["new","koba","yes"],["","wug","no"],["","toma","yes"]]
+
+var v6 = [["new","boti","no"],["new","zorp","yes"],["","koba","no"],["","gade","yes"]]
+
+var v7 = [["new","koba","no"],["new","gade","yes"],["","boti","no"],["","zorp","yes"]]
+
+var v8 = [["new","zorp","no"],["new","boti","yes"],["","sprock","no"],["","blicket","yes"]]
+
+var versions = [[v1,"v1"],[v2,"v2"],[v3,"v3"],[v4,"v4"],[v5,"v5"],[v6,"v6"],[v7,"v7"],[v8,"v8"]]
 
 var words = ["blicket", "wug", "toma", "gade", "sprock", "koba", "zorp", "boti"];
 
@@ -117,14 +125,6 @@ side 2: target left, target name second
 side 3: target right, target name first
 side 4: target right, target name second
 */
-
-/* old version of stimuli
-var v1b2 = [["new","gade","no"],["new","koba","yes"],["","wug","no"],["","toma","yes"]]
-var v2b2 = [["new","boti","no"],["new","zorp","yes"],["","koba","no"],["","gade","yes"]]
-var v3b2 = [["new","koba","no"],["new","gade","yes"],["","boti","no"],["","zorp","yes"]]
-var v4b2 = [["new","zorp","no"],["new","boti","yes"],["","sprock","no"],["","blicket","yes"]]
-*/
-
 
 //-----------------------------------------------
 
@@ -205,6 +205,8 @@ var experiment = {
 
 	targetnamefirst: false,
 
+	distractorname: "",
+
 
 	startexp: function() {
 
@@ -224,19 +226,15 @@ var experiment = {
 		experiment.trialtypes = shuffle(experiment.version[0])
 
 		var video;
-		//$(document).ready(function(){    
+		
     	video = document.getElementsByTagName('video')[0];    
+
     	for (j = 0; j < v1.length; j++) {
-    		console.log("loading video " + j)
     		addSourceToVideo( video, "videos/" + v1[j][0] + v1[j][1] + v1[j][2] + ".mp4", "video/mp4");
     		addSourceToVideo( video, "videos/" + v2[j][0] + v2[j][1] + v2[j][2] + ".mp4", "video/mp4");
     		addSourceToVideo( video, "videos/" + v3[j][0] + v3[j][1] + v3[j][2] + ".mp4", "video/mp4");
     		addSourceToVideo( video, "videos/" + v4[j][0] + v4[j][1] + v4[j][2] + ".mp4", "video/mp4");
-
     	}
-
-    //video.addEventListener("progress", progressHandler,false);       
-	//})
 
 		if (usesound) {
 			for (i=0; i < words.length; i++) {
@@ -270,7 +268,7 @@ var experiment = {
 
 	// this function only used in ipad version
 	checkInput: function() {
-		//subject ID
+
   		if (document.getElementById("subjectID").value.length < 1) {
 			$("#checkMessage").html('<font color="red">You must input a subject ID</font>');
 			return;
@@ -283,6 +281,7 @@ var experiment = {
 		}
 		experiment.subage = parseInt(document.getElementById("age").value);
 		experiment.pauseslide();
+
 	},
 
 
@@ -292,30 +291,27 @@ var experiment = {
     		$("#selectionstage").fadeOut();
     	}, 100);
     	
-    	// use line below for mmturkey version
-    	//setTimeout(function() { turk.submit(experiment, true) }, 1500);
     	showSlide("finish");
     	document.body.style.background = "black";
     },
 
-	//concatenates all experimental variables into a string which represents one "row" of data in the eventual csv, to live in the server
+
 	processOneRow: function() {
 		
-		var dataforRound = experiment.subid + "," + experiment.subage + "," + experiment.version[2]; 
+		var dataforRound = experiment.subid + "," + experiment.subage + "," + experiment.version[1]; 
 		dataforRound += "," + experiment.counter + "," + experiment.trialtype[0] + "," + experiment.trialtype[1] + "," + experiment.trialtype[2] + "," + experiment.chosetarget + "," + experiment.targetname + "," + experiment.modifier;
 		dataforRound += "," + experiment.date + "," + experiment.timestamp + "," + experiment.rtsearch;
 		dataforRound += "," + experiment.targetpos + "," + experiment.targetside + "," + experiment.chosenside;
-		dataforRound += "," + experiment.sidesmatchorder + "," + experiment.targetnamefirst;
+		dataforRound += "," + experiment.sidesmatchorder + "," + experiment.targetnamefirst + "," + experiment.distractorname;
 		dataforRound += "\n";
-		$.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : dataforRound});
-		// use line below for mmturkey version
-		//experiment.data.push(dataforRound);	
+		$.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : dataforRound});	
+
 	},
 
 	
 	
 
-	// MAIN DISPLAY FUNCTION
+	// *** MAIN DISPLAY FUNCTION *** //
   	next: function(phase) {
 
   		// disables all scrolling functionality to fix a slide in place on the ipad
@@ -356,9 +352,7 @@ var experiment = {
 
 			experiment.response = experiment.trialtype[2];
 
-			var myvideo = document.getElementById("interactionvideo");
-			//$("#interactionvideo").attr("src", "videos/" + experiment.trialtype[0] + experiment.trialtype[1] + experiment.trialtype[2] + ".mp4")
-			
+			var myvideo = document.getElementById("interactionvideo");			
 			
 			$("#interactionvideo").hide()
 			
@@ -366,28 +360,19 @@ var experiment = {
 			$("#interactionvideo").show();
 			myvideo.muted = false
 			myvideo.pause()
-			myvideo.play()
-			
-			//setTimeout(function() {$("#interactionvideo").show(); $("#interactionvideo").load();$("#videostage").fadeIn();},3000)
-
-			//$("#interactionvideo").autoplay = true
-
+			setTimeout(function() {myvideo.play()}, 1000)
 			
 			myvideo.addEventListener('ended',myHandler,false);
 			function myHandler(e) {
-    			experiment.next("selection");$("#videostage").fadeOut(100);
+				setTimeout(function() {experiment.next("selection");$("#videostage").fadeOut(100);}, 2000)
 			}
-    		
-
-			//setTimeout(function() {experiment.next("selection");$("#videostage").fadeOut(100);}, 9000)
-
-			
 
 		} else if (phase == "selection") {
 
 			$("#selectionstage").hide()
 
 			experiment.side = experiment.sides[experiment.counter - 1]
+			experiment.distractorname = wordsmap[experiment.targetname]
 			
 			if (experiment.side == 1 || experiment.side == 2) {
 				experiment.targetside = "left"
@@ -401,6 +386,7 @@ var experiment = {
 					experiment.targetnamefirst = false;
 					experiment.sidesmatchorder = false;
 				}
+
 			} else if (experiment.side == 3 || experiment.side == 4){
 				experiment.targetside = "right"
 				experiment.targetpos = 2
@@ -414,6 +400,7 @@ var experiment = {
 					experiment.sidesmatchorder = true;
 				}
 			}
+
 			$("#object1").hide()
 			$("#object2").hide()
 
@@ -485,39 +472,35 @@ var experiment = {
 
 			setTimeout(function(){
 				if (experiment.targetnamefirst) {
-					trialsound = experiment.trialsounds[experiment.allstims.indexOf(experiment.targetname + wordsmap[experiment.targetname])]
+					trialsound = experiment.trialsounds[experiment.allstims.indexOf(experiment.targetname + experiment.distractorname)]
 				} else {
-					trialsound = experiment.trialsounds[experiment.allstims.indexOf(wordsmap[experiment.targetname] + experiment.targetname)]
+					trialsound = experiment.trialsounds[experiment.allstims.indexOf(experiment.distractorname + experiment.targetname)]
 				}
 				if (usesound) {trialsound.play();}
-				experiment.starttime = Date.now();
-			}, 1500);
-					
-			setTimeout(function(){
 				$("#object1").show()
 				$("#object2").show()
 				$("#selectionstage").fadeIn(500)
-			}, 1500);
+				experiment.starttime = Date.now();
+			}, 2000);
 
 			setTimeout(function(){
 				trialsound = experiment.trialsounds[experiment.allstims.indexOf("find" + experiment.targetname)]
 				if (usesound) {trialsound.play();}
-			}, 4500);
+			}, 5500);
 
-		    setTimeout(function() {experiment.canclick = true;}, 3000)
-
+		    setTimeout(function() {experiment.canclick = true;}, 6000)
 
 		    setTimeout(function() {
 		    	trialsound = experiment.trialsounds[experiment.allstims.indexOf("tap" + experiment.targetname)]
 				if (usesound && experiment.canclick) {trialsound.play();}
-		    }, 6500)
+		    }, 7500)
 		} 
 	},
 
 	start: function() {
 
 		// put column headers in data file
-		var coltitles = "subid, subage, version, counter, mod, targetname, response, chosetarget, targetname,modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside \n";
+		var coltitles = "subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname \n";
 		$.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : coltitles});
 
 		
