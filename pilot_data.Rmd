@@ -28,27 +28,25 @@ theme_set(theme_classic(base_size = 16))
 ```
 
 ```{r read-data,  message = FALSE, warning = FALSE}
-data <- read_csv(here("data/foregroundingv2-4.csv")) %>%
+data <- read_csv(here("data/foregroundingv3-5.csv")) %>%
   filter(subid != 0, subage != 0, subid != "subid") %>%
+  filter(subid != 18, subid != 19, subid != 21, subid != 22, subid != 23) %>%
   mutate_at(c("subid", "subage", "counter"), as.numeric) %>%
   mutate(chosetarget = as.logical(chosetarget)) %>%
   mutate(subid = paste0(subage, "_", subid))
+
 ```
 
 ```{r plot_data}
 mean_data <- data %>%
-  mutate(counterbin = counter > 4,
-         counterbin = factor(counterbin, levels = c(F, T), 
-                             labels = c("early", "late")),
-         agebin = subage > 4,
+  mutate(agebin = subage > 4,
          agebin = factor(agebin, levels = c(F, T), 
                              labels = c("young", "old"))) %>%
-  group_by(modifier, response, agebin, counterbin, subid) %>%
+  group_by(modifier, response, agebin, subid) %>%
   summarise(chosetarget = mean(chosetarget)) %>%
   tidyboot_mean(chosetarget) 
 
 mean_data_nofacets <- data %>%
-  filter(counter <= 4) %>%
   group_by(modifier, response, subid) %>%
   summarise(chosetarget = mean(chosetarget)) %>%
   tidyboot_mean(chosetarget) 
@@ -107,10 +105,20 @@ rt_means %>%
 
 
 ```{r model}
-data %>%
+model1 <- data %>%
   #filter(counter <= 4) %>%
   #mutate(age_bin = subage > 4) %>%
   glmer(chosetarget ~ modifier * response + (1|subid),
+        family = "binomial", data = .) %>%
+  tidy() %>%
+  filter(effect == "fixed") %>%
+  select(-effect, - group) %>%
+  kable()
+
+model2 <- data %>%
+  #filter(counter <= 4) %>%
+  #mutate(age_bin = subage > 4) %>%
+  glmer(chosetarget ~ modifier + response + (1|subid),
         family = "binomial", data = .) %>%
   tidy() %>%
   filter(effect == "fixed") %>%

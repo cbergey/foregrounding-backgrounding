@@ -134,7 +134,7 @@ $("#interactionvideo").attr("src", "videos/wugno.mp4")
 var myvideo = document.getElementById("interactionvideo");
 myvideo.muted = true
 myvideo.pause()
-myvideo.play()
+
 
 var imagedict = {};
 var image;
@@ -234,7 +234,14 @@ var experiment = {
     		addSourceToVideo( video, "videos/" + v2[j][0] + v2[j][1] + v2[j][2] + ".mp4", "video/mp4");
     		addSourceToVideo( video, "videos/" + v3[j][0] + v3[j][1] + v3[j][2] + ".mp4", "video/mp4");
     		addSourceToVideo( video, "videos/" + v4[j][0] + v4[j][1] + v4[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v5[j][0] + v5[j][1] + v5[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v6[j][0] + v6[j][1] + v6[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v7[j][0] + v7[j][1] + v7[j][2] + ".mp4", "video/mp4");
+    		addSourceToVideo( video, "videos/" + v8[j][0] + v8[j][1] + v8[j][2] + ".mp4", "video/mp4");
     	}
+
+    	video.muted = true
+		video.pause()
 
 		if (usesound) {
 			for (i=0; i < words.length; i++) {
@@ -255,7 +262,8 @@ var experiment = {
 		$("#prestudy").hide();
 		$(startimg).attr("src", "images/orange-button.png");
 
-		$( "#startimg" ).click(function() {
+		$( "#startimg" ).on('touchstart',function() {
+		//$( "#startimg" ).click(function() {
 			setTimeout(function() {
 				$("#pauseslide").fadeOut(1000);
 				experiment.startexp();
@@ -360,7 +368,7 @@ var experiment = {
 			$("#interactionvideo").show();
 			myvideo.muted = false
 			myvideo.pause()
-			setTimeout(function() {myvideo.play()}, 1000)
+			setTimeout(function() {myvideo.play();}, 1000)
 			
 			myvideo.addEventListener('ended',myHandler,false);
 			function myHandler(e) {
@@ -413,8 +421,8 @@ var experiment = {
 
 
   			if (experiment.counter == 1) {
-				//$( "#object1" ).on('touchstart',function() {
-				$( "#object1" ).click(function() {
+				$( "#object1" ).on('touchstart',function() {
+				//$( "#object1" ).click(function() {
 					if (experiment.canclick) {
 						experiment.canclick = false;
 						$(object1).css({"border-color": "#000000", 
@@ -440,8 +448,8 @@ var experiment = {
 						}, 1000);
 					}
 				});
-				//$( "#object2" ).on('touchstart',function() {
-				$( "#object2" ).click(function() {
+				$( "#object2" ).on('touchstart',function() {
+				//$( "#object2" ).click(function() {
 					if (experiment.canclick) {
 						experiment.canclick = false;
 						$(object2).css({"border-color": "#000000", 
