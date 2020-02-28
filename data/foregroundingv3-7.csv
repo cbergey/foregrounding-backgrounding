@@ -1,0 +1,1009 @@
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,undefined,1,,blicket,no,true,blicket,nomodifier,12/3/2019,0:40,8012,1,left,left,false,false,
+0,0,undefined,2,new,wug,yes,true,wug,new,12/3/2019,0:40,7121,2,right,right,false,true,
+0,0,undefined,3,new,toma,no,true,toma,new,12/3/2019,0:40,7063,2,right,right,true,false,
+0,0,undefined,4,,sprock,yes,true,sprock,nomodifier,12/3/2019,0:40,6909,1,left,left,true,true,
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,undefined,1,new,toma,no,false,toma,new,12/3/2019,0:45,4911,2,right,left,true,false,boti
+0,0,undefined,2,new,wug,yes,false,wug,new,12/3/2019,0:45,2474,2,right,left,false,true,zorp
+0,0,undefined,3,,sprock,yes,true,sprock,nomodifier,12/3/2019,0:45,8302,1,left,left,false,false,gade
+0,0,undefined,4,,blicket,no,false,blicket,nomodifier,12/3/2019,0:45,37887,1,left,right,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,undefined,1,,sprock,no,true,sprock,nomodifier,12/3/2019,0:48,4755,2,right,right,false,true,gade
+0,0,undefined,2,new,boti,yes,true,boti,new,12/3/2019,0:48,4572,1,left,left,true,true,toma
+0,0,undefined,3,,blicket,yes,true,blicket,nomodifier,12/3/2019,0:48,14380,1,left,left,false,false,koba
+0,0,undefined,4,new,zorp,no,true,zorp,new,12/3/2019,0:48,7842,2,right,right,true,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,undefined,1,,gade,no,true,gade,nomodifier,12/3/2019,0:49,6352,2,right,right,true,false,sprock
+0,0,undefined,2,new,toma,yes,true,toma,new,12/3/2019,0:49,4467,2,right,right,false,true,boti
+0,0,undefined,3,new,wug,no,true,wug,new,12/3/2019,0:49,8687,1,left,left,false,false,zorp
+0,0,undefined,4,,koba,yes,true,koba,nomodifier,12/3/2019,0:49,11713,1,left,left,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,,sprock,yes,true,sprock,nomodifier,12/3/2019,0:54,6173,2,right,right,false,true,gade
+0,0,v2,2,new,toma,no,false,toma,new,12/3/2019,0:54,4353,2,right,left,true,false,boti
+0,0,v2,3,,blicket,no,false,blicket,nomodifier,12/3/2019,0:54,7933,1,left,right,true,true,koba
+0,0,v2,4,new,wug,yes,true,wug,new,12/3/2019,0:54,6557,1,left,left,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,sprock,yes,true,sprock,new,12/3/2019,10:10,31138,2,right,right,false,true,gade
+0,0,v3,2,,toma,no,true,toma,nomodifier,12/3/2019,10:10,5197,1,left,left,false,false,boti
+0,0,v3,3,new,blicket,no,true,blicket,new,12/3/2019,10:10,8121,2,right,right,true,false,koba
+0,0,v3,4,,wug,yes,false,wug,nomodifier,12/3/2019,10:10,7280,1,left,right,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,wug,no,false,wug,nomodifier,12/3/2019,10:13,21041,1,left,right,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,new,gade,yes,false,gade,new,12/3/2019,10:16,5652,1,left,right,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,2,,boti,no,true,boti,nomodifier,12/3/2019,10:16,6530,1,left,left,false,false,toma
+0,0,v7,1,new,gade,yes,true,gade,new,12/3/2019,10:17,7911,1,left,left,true,true,sprock
+0,0,v7,3,new,koba,no,true,koba,new,12/3/2019,10:16,6532,2,right,right,true,false,blicket
+0,0,v7,2,,zorp,yes,true,zorp,nomodifier,12/3/2019,10:17,5443,2,right,right,false,true,wug
+0,0,v7,4,,zorp,yes,true,zorp,nomodifier,12/3/2019,10:16,4837,2,right,right,false,true,wug
+0,0,v7,3,,boti,no,true,boti,nomodifier,12/3/2019,10:17,5831,1,left,left,false,false,toma
+0,0,v7,4,new,koba,no,true,koba,new,12/3/2019,10:17,8697,2,right,right,true,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,new,koba,yes,true,koba,new,12/3/2019,10:19,7389,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,2,,toma,yes,true,toma,nomodifier,12/3/2019,10:19,5689,2,right,right,true,false,boti
+0,0,v6,1,new,boti,no,true,boti,new,12/3/2019,10:18,4560,2,right,right,true,false,toma
+0,0,v5,3,new,gade,no,true,gade,new,12/3/2019,10:19,5063,1,left,left,false,false,sprock
+0,0,v6,2,,gade,yes,true,gade,nomodifier,12/3/2019,10:18,7468,1,left,left,true,true,sprock
+0,0,v5,4,,wug,no,true,wug,nomodifier,12/3/2019,10:19,5227,1,left,left,true,true,zorp
+0,0,v6,3,,koba,no,false,koba,nomodifier,12/3/2019,10:18,10168,2,right,left,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,blicket,no,true,blicket,new,12/3/2019,10:20,4915,2,right,right,false,true,koba
+0,0,v6,4,new,zorp,yes,false,zorp,new,12/3/2019,10:18,4167,1,left,right,false,false,wug
+0,0,v3,2,,wug,yes,false,wug,nomodifier,12/3/2019,10:20,5141,1,left,right,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,3,,toma,no,false,toma,nomodifier,12/3/2019,10:20,5471,1,left,right,false,false,boti
+0,0,v8,1,new,boti,yes,true,boti,new,12/3/2019,10:21,29441,1,left,left,false,false,toma
+0,0,v8,2,new,zorp,no,true,zorp,new,12/3/2019,10:21,4599,1,left,left,true,true,wug
+0,0,v8,3,,blicket,yes,true,blicket,nomodifier,12/3/2019,10:21,17492,2,right,right,false,true,koba
+0,0,v8,4,,sprock,no,true,sprock,nomodifier,12/3/2019,10:21,75347,2,right,right,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,1,,koba,no,true,koba,nomodifier,12/3/2019,10:26,9675,1,left,left,true,true,blicket
+0,0,v3,4,new,sprock,yes,true,sprock,new,12/3/2019,10:20,342105,2,right,right,true,false,gade
+0,0,v6,2,,gade,yes,true,gade,nomodifier,12/3/2019,10:26,10096,2,right,right,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,3,new,boti,no,false,boti,new,12/3/2019,10:26,7817,1,left,right,false,false,toma
+0,0,v6,4,new,zorp,yes,true,zorp,new,12/3/2019,10:26,5938,2,right,right,false,true,wug
+0,0,v1,1,,zorp,no,true,zorp,nomodifier,12/3/2019,10:27,9591,1,left,left,false,false,wug
+0,0,v1,2,new,blicket,yes,true,blicket,new,12/3/2019,10:27,6090,2,right,right,false,true,koba
+0,0,v1,3,,boti,yes,true,boti,nomodifier,12/3/2019,10:27,4077,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,sprock,no,false,sprock,nomodifier,12/3/2019,10:28,4369,1,left,right,true,true,gade
+0,0,v1,4,new,sprock,no,false,sprock,new,12/3/2019,10:27,6642,2,right,left,true,false,gade
+0,0,v8,2,,blicket,yes,false,blicket,nomodifier,12/3/2019,10:28,5133,2,right,left,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,3,new,boti,yes,true,boti,new,12/3/2019,10:28,17155,2,right,right,true,false,toma
+0,0,v8,4,new,zorp,no,false,zorp,new,12/3/2019,10:28,5378,1,left,right,false,false,wug
+0,0,v7,1,new,gade,yes,false,gade,new,12/3/2019,10:29,18283,1,left,right,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,new,gade,yes,false,gade,new,12/3/2019,10:32,5445,1,left,right,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,2,,boti,no,false,boti,nomodifier,12/3/2019,10:32,4379,1,left,right,false,false,toma
+0,0,v2,1,,sprock,yes,true,sprock,nomodifier,12/3/2019,10:32,7879,2,right,right,false,true,gade
+0,0,v7,3,new,koba,no,true,koba,new,12/3/2019,10:32,5244,2,right,right,true,false,blicket
+0,0,v2,2,new,wug,yes,true,wug,new,12/3/2019,10:32,5532,1,left,left,false,false,zorp
+0,0,v7,4,,zorp,yes,false,zorp,nomodifier,12/3/2019,10:32,4978,2,right,left,false,true,wug
+0,0,v2,3,new,toma,no,false,toma,new,12/3/2019,10:32,4912,2,right,left,true,false,boti
+0,0,v2,4,,blicket,no,true,blicket,nomodifier,12/3/2019,10:32,6007,1,left,left,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,,wug,yes,true,wug,nomodifier,12/3/2019,10:33,4729,1,left,left,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,2,new,sprock,yes,true,sprock,new,12/3/2019,10:33,4016,2,right,right,false,true,gade
+0,0,v1,1,,boti,yes,false,boti,nomodifier,12/3/2019,10:34,6924,2,right,left,true,false,toma
+0,0,v3,3,,toma,no,false,toma,nomodifier,12/3/2019,10:33,4032,1,left,right,false,false,boti
+0,0,v1,2,new,sprock,no,true,sprock,new,12/3/2019,10:34,9739,2,right,right,false,true,gade
+0,0,v3,4,new,blicket,no,true,blicket,new,12/3/2019,10:33,4754,2,right,right,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,new,wug,no,true,wug,new,12/3/2019,10:35,8975,1,left,left,true,true,zorp
+0,0,v4,2,new,toma,yes,true,toma,new,12/3/2019,10:35,4723,2,right,right,false,true,boti
+0,0,v4,3,,gade,no,false,gade,nomodifier,12/3/2019,10:35,5236,1,left,right,false,false,sprock
+0,0,v4,4,,koba,yes,true,koba,nomodifier,12/3/2019,10:35,4858,2,right,right,true,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,sprock,yes,true,sprock,new,12/3/2019,10:37,5988,1,left,left,false,false,gade
+0,0,v3,2,new,blicket,no,false,blicket,new,12/3/2019,10:37,4489,2,right,left,false,true,koba
+0,0,v3,3,,toma,no,false,toma,nomodifier,12/3/2019,10:37,5152,1,left,right,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,4,,wug,yes,false,wug,nomodifier,12/3/2019,10:37,112646,2,right,left,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,blicket,yes,true,blicket,nomodifier,12/3/2019,10:40,8523,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,2,new,zorp,no,true,zorp,new,12/3/2019,10:40,46732,1,left,left,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,3,new,boti,yes,false,boti,new,12/3/2019,10:40,20270,2,right,left,true,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,4,,sprock,no,false,sprock,nomodifier,12/3/2019,10:40,10061,2,right,left,false,true,gade
+0,0,v3,1,,toma,no,false,toma,nomodifier,12/3/2019,10:42,44158,1,left,right,true,true,boti
+0,0,v3,2,new,blicket,no,false,blicket,new,12/3/2019,10:42,27543,2,right,left,true,false,koba
+0,0,v3,3,new,sprock,yes,true,sprock,new,12/3/2019,10:42,4640,2,right,right,false,true,gade
+0,0,v3,4,,wug,yes,true,wug,nomodifier,12/3/2019,10:42,16818,1,left,left,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,sprock,yes,false,sprock,new,12/3/2019,10:44,26022,1,left,right,true,true,gade
+0,0,v4,1,,gade,no,true,gade,nomodifier,12/3/2019,10:46,7348,2,right,right,false,true,sprock
+0,0,v3,2,,wug,yes,true,wug,nomodifier,12/3/2019,10:44,10465,2,right,right,true,false,zorp
+0,0,v4,2,new,wug,no,false,wug,new,12/3/2019,10:46,11050,1,left,right,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,3,,toma,no,false,toma,nomodifier,12/3/2019,10:44,16065,2,right,left,false,true,boti
+0,0,v5,1,,toma,yes,false,toma,nomodifier,12/3/2019,10:45,5647,2,right,left,true,false,boti
+0,0,v4,3,new,toma,yes,false,toma,new,12/3/2019,10:46,19666,1,left,right,true,true,boti
+0,0,v5,2,new,koba,yes,true,koba,new,12/3/2019,10:45,4958,1,left,left,false,false,blicket
+0,0,v3,4,new,blicket,no,true,blicket,new,12/3/2019,10:44,8821,1,left,left,false,false,koba
+0,0,v4,4,,koba,yes,true,koba,nomodifier,12/3/2019,10:46,4160,2,right,right,true,false,blicket
+0,0,v5,3,new,gade,no,false,gade,new,12/3/2019,10:45,7178,2,right,left,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,4,,wug,no,false,wug,nomodifier,12/3/2019,10:45,18028,1,left,right,true,true,zorp
+0,0,v3,1,,toma,no,false,toma,nomodifier,12/3/2019,10:48,5059,2,right,left,true,false,boti
+0,0,v3,2,,wug,yes,false,wug,nomodifier,12/3/2019,10:48,7495,1,left,right,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,3,new,sprock,yes,true,sprock,new,12/3/2019,10:48,4972,2,right,right,false,true,gade
+0,0,v8,1,,sprock,no,false,sprock,nomodifier,12/3/2019,10:48,5632,2,right,left,false,true,gade
+0,0,v8,2,new,zorp,no,true,zorp,new,12/3/2019,10:48,35911,1,left,left,false,false,wug
+0,0,v3,4,new,blicket,no,true,blicket,new,12/3/2019,10:48,58780,1,left,left,false,false,koba
+0,0,v8,3,new,boti,yes,true,boti,new,12/3/2019,10:48,153077,2,right,right,true,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,4,,blicket,yes,false,blicket,nomodifier,12/3/2019,10:48,7457,1,left,right,true,true,koba
+0,0,v7,1,new,gade,yes,true,gade,new,12/3/2019,10:53,7444,1,left,left,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,2,,boti,no,false,boti,nomodifier,12/3/2019,10:53,6417,2,right,left,false,true,toma
+0,0,v5,1,new,gade,no,false,gade,new,12/3/2019,10:53,4079,1,left,right,false,false,sprock
+0,0,v7,3,,zorp,yes,true,zorp,nomodifier,12/3/2019,10:53,4668,2,right,right,true,false,wug
+0,0,v5,2,new,koba,yes,true,koba,new,12/3/2019,10:53,9772,2,right,right,true,false,blicket
+0,0,v7,4,new,koba,no,false,koba,new,12/3/2019,10:53,7528,1,left,right,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,3,,toma,yes,true,toma,nomodifier,12/3/2019,10:53,38883,1,left,left,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,new,wug,yes,true,wug,new,12/3/2019,10:55,7350,1,left,left,true,true,zorp
+0,0,v6,1,,gade,yes,false,gade,nomodifier,12/3/2019,10:55,11103,2,right,left,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,new,koba,yes,true,koba,new,12/3/2019,10:56,6769,2,right,right,false,true,blicket
+0,0,v6,2,new,boti,no,true,boti,new,12/3/2019,10:55,30564,1,left,left,false,false,toma
+0,0,v5,2,new,gade,no,true,gade,new,12/3/2019,10:56,11597,1,left,left,false,false,sprock
+0,0,v5,3,,toma,yes,false,toma,nomodifier,12/3/2019,10:56,12073,2,right,left,true,false,boti
+0,0,v6,3,new,zorp,yes,false,zorp,new,12/3/2019,10:55,28195,1,left,right,true,true,wug
+0,0,v5,4,,wug,no,true,wug,nomodifier,12/3/2019,10:56,12875,1,left,left,true,true,zorp
+0,0,v6,4,,koba,no,true,koba,nomodifier,12/3/2019,10:55,12527,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,,wug,yes,true,wug,nomodifier,12/3/2019,10:58,5955,2,right,right,false,true,zorp
+0,0,v3,2,new,blicket,no,true,blicket,new,12/3/2019,10:58,5247,1,left,left,false,false,koba
+0,0,v1,1,,zorp,no,false,zorp,nomodifier,12/3/2019,10:58,11212,2,right,left,true,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,new,gade,yes,true,gade,new,12/3/2019,10:59,15564,1,left,left,false,false,sprock
+0,0,v4,1,new,toma,yes,false,toma,new,12/3/2019,10:59,24913,1,left,right,true,true,boti
+0,0,v7,2,,boti,no,false,boti,nomodifier,12/3/2019,10:59,9604,2,right,left,false,true,toma
+0,0,v4,2,new,wug,no,true,wug,new,12/3/2019,10:59,12268,2,right,right,false,true,zorp
+0,0,v7,3,,zorp,yes,false,zorp,nomodifier,12/3/2019,10:59,5210,2,right,left,true,false,wug
+0,0,v4,3,,gade,no,true,gade,nomodifier,12/3/2019,10:59,6007,2,right,right,true,false,sprock
+0,0,v7,4,new,koba,no,true,koba,new,12/3/2019,10:59,4105,1,left,left,true,true,blicket
+0,0,v4,4,,koba,yes,false,koba,nomodifier,12/3/2019,10:59,6589,1,left,right,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,1,,gade,yes,true,gade,nomodifier,12/3/2019,11:01,11883,2,right,right,false,true,sprock
+0,0,v5,1,,toma,yes,true,toma,nomodifier,12/3/2019,11:02,4615,2,right,right,false,true,boti
+0,0,v5,2,new,koba,yes,false,koba,new,12/3/2019,11:02,15103,2,right,left,true,false,blicket
+0,0,v6,2,,koba,no,false,koba,nomodifier,12/3/2019,11:01,22668,1,left,right,true,true,blicket
+0,0,v5,3,,wug,no,true,wug,nomodifier,12/3/2019,11:02,4373,1,left,left,false,false,zorp
+0,0,v6,3,new,zorp,yes,true,zorp,new,12/3/2019,11:01,4121,2,right,right,true,false,wug
+0,0,v6,4,new,boti,no,true,boti,new,12/3/2019,11:01,11673,1,left,left,false,false,toma
+0,0,v5,4,new,gade,no,true,gade,new,12/3/2019,11:02,32823,1,left,left,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,new,toma,yes,false,toma,new,12/3/2019,11:04,30552,2,right,left,false,true,boti
+0,0,v3,1,new,blicket,no,false,blicket,new,12/3/2019,11:04,31946,1,left,right,false,false,koba
+0,0,v4,2,,koba,yes,true,koba,nomodifier,12/3/2019,11:04,6698,1,left,left,false,false,blicket
+0,0,v3,2,new,sprock,yes,true,sprock,new,12/3/2019,11:04,5795,2,right,right,false,true,gade
+0,0,v3,3,,wug,yes,true,wug,nomodifier,12/3/2019,11:04,7902,1,left,left,true,true,zorp
+0,0,v4,3,,gade,no,false,gade,nomodifier,12/3/2019,11:04,9591,2,right,left,true,false,sprock
+0,0,v4,4,new,wug,no,true,wug,new,12/3/2019,11:04,7481,1,left,left,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,,toma,no,false,toma,nomodifier,12/3/2019,11:07,4078,2,right,left,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,2,new,sprock,yes,true,sprock,new,12/3/2019,11:07,6672,1,left,left,false,false,gade
+0,0,v3,3,,wug,yes,true,wug,nomodifier,12/3/2019,11:07,13424,1,left,left,true,true,zorp
+0,0,v3,4,,toma,no,false,toma,nomodifier,12/3/2019,11:04,159043,2,right,left,true,false,boti
+0,0,v3,4,new,blicket,no,false,blicket,new,12/3/2019,11:07,12189,2,right,left,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,,blicket,no,false,blicket,nomodifier,12/3/2019,11:09,4981,1,left,right,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,2,new,toma,no,true,toma,new,12/3/2019,11:09,5033,1,left,left,false,false,boti
+0,0,v5,1,new,koba,yes,false,koba,new,12/3/2019,11:09,5196,2,right,left,true,false,blicket
+0,0,v2,3,,sprock,yes,true,sprock,nomodifier,12/3/2019,11:09,5311,2,right,right,true,false,gade
+0,0,v2,4,new,wug,yes,true,wug,new,12/3/2019,11:09,4143,2,right,right,false,true,zorp
+0,0,v5,2,new,gade,no,true,gade,new,12/3/2019,11:09,7384,1,left,left,true,true,sprock
+0,0,v5,3,,wug,no,false,wug,nomodifier,12/3/2019,11:09,4610,2,right,left,false,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,4,,toma,yes,true,toma,nomodifier,12/3/2019,11:09,4892,1,left,left,false,false,boti
+0,0,v7,1,,zorp,yes,true,zorp,nomodifier,12/3/2019,11:11,6356,2,right,right,false,true,wug
+0,0,v7,2,new,koba,no,true,koba,new,12/3/2019,11:11,5956,1,left,left,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,3,,boti,no,false,boti,nomodifier,12/3/2019,11:11,8390,2,right,left,true,false,toma
+0,0,v6,1,new,zorp,yes,false,zorp,new,12/3/2019,11:12,5118,2,right,left,true,false,wug
+0,0,v7,4,new,gade,yes,true,gade,new,12/3/2019,11:11,4583,1,left,left,true,true,sprock
+0,0,v6,2,new,boti,no,true,boti,new,12/3/2019,11:12,4688,1,left,left,false,false,toma
+0,0,v6,3,,koba,no,true,koba,nomodifier,12/3/2019,11:12,4505,1,left,left,true,true,blicket
+0,0,v6,4,,gade,yes,true,gade,nomodifier,12/3/2019,11:12,5057,2,right,right,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,blicket,yes,true,blicket,nomodifier,12/3/2019,11:13,5270,1,left,left,false,false,koba
+0,0,v4,1,,koba,yes,true,koba,nomodifier,12/3/2019,11:14,6211,2,right,right,true,false,blicket
+0,0,v4,2,,gade,no,true,gade,nomodifier,12/3/2019,11:14,4116,1,left,left,true,true,sprock
+0,0,v8,2,new,boti,yes,true,boti,new,12/3/2019,11:13,22068,2,right,right,false,true,toma
+0,0,v4,3,new,toma,yes,false,toma,new,12/3/2019,11:14,5257,1,left,right,false,false,boti
+0,0,v8,3,new,zorp,no,true,zorp,new,12/3/2019,11:13,5415,1,left,left,true,true,wug
+0,0,v4,4,new,wug,no,true,wug,new,12/3/2019,11:14,6767,2,right,right,false,true,zorp
+0,0,v8,4,,sprock,no,true,sprock,nomodifier,12/3/2019,11:13,6804,2,right,right,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,,gade,no,true,gade,nomodifier,12/3/2019,11:16,5711,1,left,left,false,false,sprock
+0,0,v1,1,new,sprock,no,true,sprock,new,12/3/2019,11:16,6761,2,right,right,false,true,gade
+0,0,v4,2,new,toma,yes,false,toma,new,12/3/2019,11:16,11658,1,left,right,true,true,boti
+0,0,v1,2,,boti,yes,true,boti,nomodifier,12/3/2019,11:16,6914,1,left,left,false,false,toma
+0,0,v4,3,new,wug,no,true,wug,new,12/3/2019,11:16,5406,2,right,right,false,true,zorp
+0,0,v1,3,,zorp,no,true,zorp,nomodifier,12/3/2019,11:16,4002,1,left,left,true,true,wug
+0,0,v4,4,,koba,yes,true,koba,nomodifier,12/3/2019,11:16,6104,2,right,right,true,false,blicket
+0,0,v1,4,new,blicket,yes,true,blicket,new,12/3/2019,11:16,7507,2,right,right,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,1,new,boti,no,false,boti,new,12/3/2019,11:18,10243,2,right,left,true,false,toma
+0,0,v4,1,,gade,no,false,gade,nomodifier,12/3/2019,11:18,4111,1,left,right,false,false,sprock
+0,0,v6,2,new,zorp,yes,true,zorp,new,12/3/2019,11:18,7728,1,left,left,true,true,wug
+0,0,v4,2,new,wug,no,true,wug,new,12/3/2019,11:18,4840,2,right,right,true,false,zorp
+0,0,v6,3,,koba,no,true,koba,nomodifier,12/3/2019,11:18,21233,1,left,left,false,false,blicket
+0,0,v4,3,,koba,yes,true,koba,nomodifier,12/3/2019,11:18,16666,1,left,left,true,true,blicket
+0,0,v6,4,,gade,yes,false,gade,nomodifier,12/3/2019,11:18,4523,2,right,left,false,true,sprock
+0,0,v4,4,new,toma,yes,false,toma,new,12/3/2019,11:18,12868,2,right,left,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,,zorp,no,true,zorp,nomodifier,12/3/2019,11:21,30683,1,left,left,false,false,wug
+0,0,v1,1,,boti,yes,false,boti,nomodifier,12/3/2019,11:21,33242,2,right,left,false,true,toma
+0,0,v1,2,new,blicket,yes,true,blicket,new,12/3/2019,11:21,30397,1,left,left,true,true,koba
+0,0,v1,2,,boti,yes,false,boti,nomodifier,12/3/2019,11:21,32729,2,right,left,false,true,toma
+0,0,v1,3,new,sprock,no,true,sprock,new,12/3/2019,11:21,5271,2,right,right,true,false,gade
+0,0,v1,3,new,blicket,yes,false,blicket,new,12/3/2019,11:21,9658,2,right,left,true,false,koba
+0,0,v1,4,,zorp,no,true,zorp,nomodifier,12/3/2019,11:21,5291,1,left,left,false,false,wug
+0,0,v1,4,new,sprock,no,true,sprock,new,12/3/2019,11:21,4017,1,left,left,true,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,wug,no,true,wug,nomodifier,12/3/2019,11:24,37652,1,left,left,false,false,zorp
+0,0,v7,1,,boti,no,true,boti,nomodifier,12/3/2019,11:24,35534,1,left,left,true,true,toma
+0,0,v5,2,,toma,yes,true,toma,nomodifier,12/3/2019,11:24,4493,2,right,right,true,false,boti
+0,0,v7,2,new,koba,no,false,koba,new,12/3/2019,11:24,4909,2,right,left,true,false,blicket
+0,0,v5,3,new,gade,no,true,gade,new,12/3/2019,11:24,4735,2,right,right,false,true,sprock
+0,0,v7,3,,zorp,yes,true,zorp,nomodifier,12/3/2019,11:24,7661,1,left,left,false,false,wug
+0,0,v5,4,new,koba,yes,true,koba,new,12/3/2019,11:24,58294,1,left,left,true,true,blicket
+0,0,v7,4,new,gade,yes,false,gade,new,12/3/2019,11:24,180636,2,right,left,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,,zorp,yes,true,zorp,nomodifier,12/3/2019,11:33,5508,1,left,left,false,false,wug
+0,0,v4,1,,gade,no,true,gade,nomodifier,12/3/2019,11:33,7541,2,right,right,true,false,sprock
+0,0,v7,2,new,koba,no,false,koba,new,12/3/2019,11:33,5142,2,right,left,false,true,blicket
+0,0,v4,2,new,wug,no,true,wug,new,12/3/2019,11:33,8177,1,left,left,true,true,zorp
+0,0,v4,3,,koba,yes,false,koba,nomodifier,12/3/2019,11:33,5014,1,left,right,false,false,blicket
+0,0,v7,3,,boti,no,true,boti,nomodifier,12/3/2019,11:33,10075,1,left,left,true,true,toma
+0,0,v4,4,new,toma,yes,true,toma,new,12/3/2019,11:33,5005,2,right,right,false,true,boti
+0,0,v7,4,new,gade,yes,false,gade,new,12/3/2019,11:33,7388,2,right,left,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,blicket,yes,false,blicket,nomodifier,12/3/2019,11:35,3993,1,left,right,false,false,koba
+0,0,v3,1,new,blicket,no,true,blicket,new,12/3/2019,11:35,6420,1,left,left,false,false,koba
+0,0,v8,2,new,boti,yes,true,boti,new,12/3/2019,11:35,4828,1,left,left,true,true,toma
+0,0,v3,2,,toma,no,true,toma,nomodifier,12/3/2019,11:35,5036,2,right,right,true,false,boti
+0,0,v8,3,new,zorp,no,true,zorp,new,12/3/2019,11:35,5528,2,right,right,true,false,wug
+0,0,v3,3,,wug,yes,true,wug,nomodifier,12/3/2019,11:35,4636,1,left,left,true,true,zorp
+0,0,v8,4,,sprock,no,true,sprock,nomodifier,12/3/2019,11:35,7254,2,right,right,false,true,gade
+0,0,v3,4,new,sprock,yes,true,sprock,new,12/3/2019,11:35,8386,2,right,right,false,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,,boti,yes,true,boti,nomodifier,12/3/2019,11:41,15709,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,toma,yes,true,toma,nomodifier,12/3/2019,11:49,5962,1,left,left,true,true,boti
+0,0,v5,2,new,koba,yes,true,koba,new,12/3/2019,11:49,5775,1,left,left,false,false,blicket
+0,0,v5,3,,wug,no,true,wug,nomodifier,12/3/2019,11:49,5078,2,right,right,true,false,zorp
+0,0,v5,4,new,gade,no,true,gade,new,12/3/2019,11:49,5418,2,right,right,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+1,5,v1,1,new,sprock,no,false,sprock,new,12/3/2019,12:36,7914,2,right,left,false,true,gade
+1,5,v1,2,,boti,yes,true,boti,nomodifier,12/3/2019,12:36,5221,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+1,5,v1,3,,zorp,no,true,zorp,nomodifier,12/3/2019,12:36,5509,1,left,left,false,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+1,5,v1,4,new,blicket,yes,false,blicket,new,12/3/2019,12:36,5502,2,right,left,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+2,3,v8,1,new,zorp,no,false,zorp,new,12/3/2019,12:55,17121,1,left,right,true,true,wug
+2,3,v8,2,new,boti,yes,true,boti,new,12/3/2019,12:55,11245,2,right,right,true,false,toma
+2,3,v8,3,,sprock,no,false,sprock,nomodifier,12/3/2019,12:55,11194,1,left,right,false,false,gade
+2,3,v8,4,,blicket,yes,true,blicket,nomodifier,12/3/2019,12:55,8008,2,right,right,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,new,toma,no,false,toma,new,12/3/2019,13:01,4791,1,left,right,false,false,boti
+0,0,v2,2,new,wug,yes,false,wug,new,12/3/2019,13:01,4592,2,right,left,false,true,zorp
+0,0,v2,3,,blicket,no,false,blicket,nomodifier,12/3/2019,13:01,4684,1,left,right,true,true,koba
+0,0,v2,4,,sprock,yes,false,sprock,nomodifier,12/3/2019,13:01,4650,2,right,left,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+3,4,v6,1,,koba,no,false,koba,nomodifier,12/3/2019,13:11,11620,1,left,right,true,true,blicket
+3,4,v6,2,new,boti,no,false,boti,new,12/3/2019,13:11,8497,1,left,right,false,false,toma
+3,4,v6,3,new,zorp,yes,false,zorp,new,12/3/2019,13:11,7778,2,right,left,false,true,wug
+3,4,v6,4,,gade,yes,true,gade,nomodifier,12/3/2019,13:11,8486,2,right,right,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,blicket,yes,false,blicket,nomodifier,12/3/2019,13:01,6011,2,right,left,true,false,koba
+0,0,v8,2,new,boti,yes,false,boti,new,12/3/2019,13:01,5125,2,right,left,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,3,new,zorp,no,true,zorp,new,12/3/2019,13:01,5093,1,left,left,false,false,wug
+0,0,v4,1,new,wug,no,true,wug,new,12/3/2019,13:16,4592,1,left,left,true,true,zorp
+0,0,v8,4,,sprock,no,true,sprock,nomodifier,12/3/2019,13:01,4412,1,left,left,true,true,gade
+0,0,v4,2,,koba,yes,false,koba,nomodifier,12/3/2019,13:16,4409,1,left,right,false,false,blicket
+0,0,v4,3,new,toma,yes,true,toma,new,12/3/2019,13:16,8786,2,right,right,true,false,boti
+0,0,v4,4,,gade,no,false,gade,nomodifier,12/3/2019,13:16,4262,2,right,left,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,1,new,zorp,yes,true,zorp,new,12/3/2019,13:17,4765,2,right,right,false,true,wug
+0,0,v6,2,,koba,no,false,koba,nomodifier,12/3/2019,13:17,4419,2,right,left,true,false,blicket
+0,0,v6,3,,gade,yes,false,gade,nomodifier,12/3/2019,13:17,6499,1,left,right,false,false,sprock
+0,0,v6,4,new,boti,no,true,boti,new,12/3/2019,13:17,22757,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+4,6,v5,1,,toma,yes,false,toma,nomodifier,12/3/2019,13:43,9682,2,right,left,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+5,6,v1,1,,zorp,no,false,zorp,nomodifier,12/3/2019,13:45,10720,2,right,left,false,true,wug
+5,6,v1,2,new,sprock,no,true,sprock,new,12/3/2019,13:45,5913,1,left,left,true,true,gade
+5,6,v1,3,new,blicket,yes,true,blicket,new,12/3/2019,13:45,4590,2,right,right,true,false,koba
+5,6,v1,4,,boti,yes,true,boti,nomodifier,12/3/2019,13:45,4402,1,left,left,false,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,toma,yes,false,toma,nomodifier,12/3/2019,13:48,13142,2,right,left,false,true,boti
+0,0,v5,2,new,gade,no,true,gade,new,12/3/2019,13:48,9579,2,right,right,true,false,sprock
+0,0,v5,3,,wug,no,true,wug,nomodifier,12/3/2019,13:48,4891,1,left,left,false,false,zorp
+0,0,v5,4,new,koba,yes,false,koba,new,12/3/2019,13:48,5781,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,new,wug,no,true,wug,new,12/3/2019,13:49,9587,2,right,right,false,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,2,,gade,no,true,gade,nomodifier,12/3/2019,13:49,6835,2,right,right,true,false,sprock
+0,0,v8,1,new,zorp,no,true,zorp,new,12/3/2019,13:50,4019,2,right,right,false,true,wug
+0,0,v4,3,,koba,yes,true,koba,nomodifier,12/3/2019,13:49,5498,1,left,left,true,true,blicket
+0,0,v8,2,,sprock,no,true,sprock,nomodifier,12/3/2019,13:50,4104,2,right,right,true,false,gade
+0,0,v4,4,new,toma,yes,true,toma,new,12/3/2019,13:49,4019,1,left,left,false,false,boti
+0,0,v8,3,new,boti,yes,true,boti,new,12/3/2019,13:50,4188,1,left,left,true,true,toma
+0,0,v8,4,,blicket,yes,true,blicket,nomodifier,12/3/2019,13:50,11715,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,blicket,no,false,blicket,new,12/3/2019,13:52,9644,1,left,right,false,false,koba
+0,0,v3,2,new,sprock,yes,false,sprock,new,12/3/2019,13:52,4391,1,left,right,true,true,gade
+0,0,v3,3,,wug,yes,true,wug,nomodifier,12/3/2019,13:52,6297,2,right,right,false,true,zorp
+0,0,v3,4,,toma,no,true,toma,nomodifier,12/3/2019,13:52,8828,2,right,right,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,,gade,no,true,gade,nomodifier,12/3/2019,13:54,7237,1,left,left,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,new,koba,yes,false,koba,new,12/3/2019,13:55,27873,1,left,right,true,true,blicket
+0,0,v6,1,new,zorp,yes,true,zorp,new,12/3/2019,13:56,5253,2,right,right,true,false,wug
+0,0,v5,2,,wug,no,true,wug,nomodifier,12/3/2019,13:55,7835,2,right,right,false,true,zorp
+0,0,v6,2,new,boti,no,true,boti,new,12/3/2019,13:56,4828,1,left,left,true,true,toma
+0,0,v5,3,,toma,yes,true,toma,nomodifier,12/3/2019,13:55,4390,2,right,right,true,false,boti
+0,0,v6,3,,gade,yes,true,gade,nomodifier,12/3/2019,13:56,5128,1,left,left,false,false,sprock
+0,0,v5,4,new,gade,no,false,gade,new,12/3/2019,13:55,4725,1,left,right,false,false,sprock
+0,0,v6,4,,koba,no,true,koba,nomodifier,12/3/2019,13:56,4529,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+6,5,v5,1,,toma,yes,true,toma,nomodifier,12/3/2019,14:00,5630,1,left,left,true,true,boti
+6,5,v5,2,new,koba,yes,true,koba,new,12/3/2019,14:00,4974,2,right,right,false,true,blicket
+6,5,v5,3,,wug,no,false,wug,nomodifier,12/3/2019,14:00,5280,1,left,right,false,false,zorp
+6,5,v5,4,new,gade,no,true,gade,new,12/3/2019,14:00,5113,2,right,right,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+7,3,v2,1,new,toma,no,false,toma,new,12/3/2019,14:10,7150,2,right,left,false,true,boti
+7,3,v2,2,new,wug,yes,true,wug,new,12/3/2019,14:10,11452,1,left,left,true,true,zorp
+7,3,v2,3,,sprock,yes,true,sprock,nomodifier,12/3/2019,14:10,6133,1,left,left,false,false,gade
+7,3,v2,4,,blicket,no,false,blicket,nomodifier,12/3/2019,14:10,6815,2,right,left,true,false,koba
+0,0,v3,1,new,sprock,yes,true,sprock,new,12/3/2019,14:05,612957,2,right,right,true,false,gade
+0,0,v3,2,new,blicket,no,true,blicket,new,12/3/2019,14:05,6058,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+8,6,v2,1,new,toma,no,false,toma,new,12/3/2019,14:20,7607,1,left,right,false,false,boti
+8,6,v2,2,,sprock,yes,true,sprock,nomodifier,12/3/2019,14:20,5116,2,right,right,true,false,gade
+8,6,v2,3,new,wug,yes,true,wug,new,12/3/2019,14:20,7000,2,right,right,false,true,zorp
+8,6,v2,4,,blicket,no,false,blicket,nomodifier,12/3/2019,14:20,4849,1,left,right,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+9,5,v8,1,,blicket,yes,true,blicket,nomodifier,12/3/2019,14:23,5270,1,left,left,true,true,koba
+9,5,v8,2,,sprock,no,false,sprock,nomodifier,12/3/2019,14:23,5035,2,right,left,true,false,gade
+9,5,v8,3,new,zorp,no,false,zorp,new,12/3/2019,14:23,5437,2,right,left,false,true,wug
+9,5,v8,4,new,boti,yes,true,boti,new,12/3/2019,14:23,5286,1,left,left,false,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,,blicket,no,true,blicket,nomodifier,12/3/2019,14:29,8242,2,right,right,true,false,koba
+0,0,v2,2,new,wug,yes,false,wug,new,12/3/2019,14:29,4034,1,left,right,false,false,zorp
+0,0,v2,3,new,toma,no,true,toma,new,12/3/2019,14:29,5644,2,right,right,false,true,boti
+0,0,v2,4,,sprock,yes,true,sprock,nomodifier,12/3/2019,14:29,5628,1,left,left,true,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,toma,yes,true,toma,nomodifier,12/3/2019,14:30,6332,2,right,right,true,false,boti
+0,0,v5,2,new,koba,yes,true,koba,new,12/3/2019,14:30,6538,2,right,right,false,true,blicket
+0,0,v5,3,,wug,no,true,wug,nomodifier,12/3/2019,14:30,6647,1,left,left,false,false,zorp
+0,0,v5,4,new,gade,no,false,gade,new,12/3/2019,14:30,5201,1,left,right,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+10,4,v7,1,,zorp,yes,true,zorp,nomodifier,12/3/2019,14:41,5347,2,right,right,true,false,wug
+10,4,v7,2,,boti,no,false,boti,nomodifier,12/3/2019,14:41,4590,1,left,right,true,true,toma
+10,4,v7,3,new,koba,no,false,koba,new,12/3/2019,14:41,6373,2,right,left,false,true,blicket
+10,4,v7,4,new,gade,yes,true,gade,new,12/3/2019,14:41,5333,1,left,left,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+11,3,v5,1,,toma,yes,true,toma,nomodifier,12/3/2019,15:11,4359,2,right,right,true,false,boti
+11,3,v5,2,,wug,no,true,wug,nomodifier,12/3/2019,15:11,4152,1,left,left,false,false,zorp
+11,3,v5,3,new,gade,no,true,gade,new,12/3/2019,15:11,5064,2,right,right,false,true,sprock
+11,3,v5,4,new,koba,yes,false,koba,new,12/3/2019,15:11,4035,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v3,1,new,blicket,no,false,blicket,new,12/3/2019,15:16,4890,1,left,right,true,true,koba
+0,0,v3,2,new,sprock,yes,true,sprock,new,12/3/2019,15:16,5172,2,right,right,true,false,gade
+0,0,v3,3,,toma,no,false,toma,nomodifier,12/3/2019,15:16,4050,2,right,left,false,true,boti
+0,0,v3,4,,wug,yes,false,wug,nomodifier,12/3/2019,15:16,4628,1,left,right,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,,boti,yes,true,boti,nomodifier,12/4/2019,13:24,4294,2,right,right,false,true,toma
+0,0,v1,2,,zorp,no,false,zorp,nomodifier,12/4/2019,13:24,4104,2,right,left,true,false,wug
+0,0,v1,3,new,sprock,no,true,sprock,new,12/4/2019,13:24,4773,1,left,left,false,false,gade
+0,0,v1,4,new,blicket,yes,true,blicket,new,12/4/2019,13:24,4396,1,left,left,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,new,gade,yes,false,gade,new,12/12/2019,17:19,5058,1,left,right,true,true,sprock
+0,0,v7,2,,boti,no,true,boti,nomodifier,12/12/2019,17:19,5613,2,right,right,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,wug,no,false,wug,nomodifier,12/12/2019,17:25,4416,1,left,right,true,true,zorp
+0,0,v5,2,,toma,yes,false,toma,nomodifier,12/12/2019,17:25,4083,2,right,left,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,,blicket,no,true,blicket,nomodifier,12/12/2019,17:32,13103,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v4,1,new,wug,no,true,wug,new,12/12/2019,17:38,4934,2,right,right,false,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,,zorp,no,false,zorp,nomodifier,12/17/2019,10:12,7420,1,left,right,true,true,wug
+0,0,v1,2,new,blicket,yes,true,blicket,new,12/17/2019,10:12,7436,1,left,left,false,false,koba
+0,0,v1,3,,boti,yes,false,boti,nomodifier,12/17/2019,10:12,7769,2,right,left,false,true,toma
+0,0,v1,4,new,sprock,no,false,sprock,new,12/17/2019,10:12,9224,2,right,left,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v6,1,,gade,yes,false,gade,nomodifier,12/17/2019,10:14,8024,2,right,left,true,false,sprock
+0,0,v6,2,,koba,no,true,koba,nomodifier,12/17/2019,10:14,17327,2,right,right,false,true,blicket
+0,0,v6,3,new,boti,no,true,boti,new,12/17/2019,10:14,6900,1,left,left,true,true,toma
+0,0,v6,4,new,zorp,yes,true,zorp,new,12/17/2019,10:14,4828,1,left,left,false,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v8,1,,blicket,yes,false,blicket,nomodifier,12/17/2019,10:22,8768,1,left,right,false,false,koba
+0,0,v8,2,new,zorp,no,false,zorp,new,12/17/2019,10:22,7514,1,left,right,true,true,wug
+0,0,v8,3,new,boti,yes,false,boti,new,12/17/2019,10:22,4258,2,right,left,false,true,toma
+0,0,v8,4,,sprock,no,false,sprock,nomodifier,12/17/2019,10:22,7670,2,right,left,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,new,toma,no,false,toma,new,12/17/2019,10:26,4271,1,left,right,true,true,boti
+0,0,v2,2,,blicket,no,false,blicket,nomodifier,12/17/2019,10:26,5731,2,right,left,false,true,koba
+0,0,v2,3,new,wug,yes,false,wug,new,12/17/2019,10:26,5227,2,right,left,true,false,zorp
+0,0,v2,4,,sprock,yes,false,sprock,nomodifier,12/17/2019,10:26,4859,1,left,right,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+12,4,v1,1,,zorp,no,true,zorp,nomodifier,12/17/2019,10:28,5578,1,left,left,true,true,wug
+12,4,v1,2,new,sprock,no,true,sprock,new,12/17/2019,10:28,5040,2,right,right,true,false,gade
+12,4,v1,3,new,blicket,yes,true,blicket,new,12/17/2019,10:28,5036,2,right,right,false,true,koba
+12,4,v1,4,,boti,yes,true,boti,nomodifier,12/17/2019,10:28,5633,1,left,left,false,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+13,3,v3,1,,toma,no,true,toma,nomodifier,12/17/2019,10:41,5430,1,left,left,true,true,boti
+13,3,v3,2,,wug,yes,true,wug,nomodifier,12/17/2019,10:41,7178,1,left,left,false,false,zorp
+13,3,v3,3,new,sprock,yes,true,sprock,new,12/17/2019,10:41,5294,2,right,right,false,true,gade
+13,3,v3,4,new,blicket,no,true,blicket,new,12/17/2019,10:41,5387,2,right,right,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+14,5,v5,1,,toma,yes,true,toma,nomodifier,12/17/2019,10:48,13032,2,right,right,true,false,boti
+14,5,v5,2,,wug,no,false,wug,nomodifier,12/17/2019,10:48,4084,1,left,right,false,false,zorp
+14,5,v5,3,new,gade,no,false,gade,new,12/17/2019,10:48,11124,2,right,left,false,true,sprock
+14,5,v5,4,new,koba,yes,false,koba,new,12/17/2019,10:48,5188,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+15,4,v5,1,,wug,no,false,wug,nomodifier,12/17/2019,11:26,39728,2,right,left,false,true,zorp
+15,4,v5,2,new,gade,no,false,gade,new,12/17/2019,11:26,9136,1,left,right,false,false,sprock
+15,4,v5,3,,toma,yes,false,toma,nomodifier,12/17/2019,11:26,7590,2,right,left,true,false,boti
+15,4,v5,4,new,koba,yes,false,koba,new,12/17/2019,11:26,13317,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+16,6,v1,1,,zorp,no,true,zorp,nomodifier,12/17/2019,11:47,5821,1,left,left,true,true,wug
+16,6,v1,2,new,blicket,yes,true,blicket,new,12/17/2019,11:47,5499,2,right,right,false,true,koba
+16,6,v1,3,,boti,yes,true,boti,nomodifier,12/17/2019,11:47,5127,1,left,left,false,false,toma
+16,6,v1,4,new,sprock,no,true,sprock,new,12/17/2019,11:47,5336,2,right,right,true,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+17,5,v1,1,new,blicket,yes,true,blicket,new,12/17/2019,11:57,5361,2,right,right,false,true,koba
+17,5,v1,2,new,sprock,no,true,sprock,new,12/17/2019,11:57,5861,2,right,right,true,false,gade
+17,5,v1,3,,boti,yes,false,boti,nomodifier,12/17/2019,11:57,4471,1,left,right,false,false,toma
+17,5,v1,4,,zorp,no,false,zorp,nomodifier,12/17/2019,11:57,4332,1,left,right,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,new,blicket,yes,false,blicket,new,12/17/2019,12:04,69565,1,left,right,true,true,koba
+0,0,v1,2,,zorp,no,true,zorp,nomodifier,12/17/2019,12:04,7556,2,right,right,false,true,wug
+18,6,v8,1,new,boti,yes,true,boti,new,12/17/2019,12:05,5693,2,right,right,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+19,6,v6,1,,koba,no,true,koba,nomodifier,12/17/2019,12:07,5098,1,left,left,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+20,6,v1,1,new,blicket,yes,true,blicket,new,12/17/2019,12:09,4894,2,right,right,true,false,koba
+20,6,v1,2,,boti,yes,false,boti,nomodifier,12/17/2019,12:09,7359,1,left,right,true,true,toma
+20,6,v1,3,new,sprock,no,true,sprock,new,12/17/2019,12:09,4681,2,right,right,false,true,gade
+20,6,v1,4,,zorp,no,false,zorp,nomodifier,12/17/2019,12:09,7008,1,left,right,false,false,wug
+0,0,v1,3,new,sprock,no,true,sprock,new,12/17/2019,12:04,404315,2,right,right,true,false,gade
+0,0,v1,4,,boti,yes,false,boti,nomodifier,12/17/2019,12:04,4854,1,left,right,false,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+21,6,v5,1,new,koba,yes,true,koba,new,12/17/2019,12:24,5594,2,right,right,true,false,blicket
+21,6,v5,2,,toma,yes,true,toma,nomodifier,12/17/2019,12:24,7151,1,left,left,false,false,boti
+21,6,v5,4,,wug,no,true,wug,nomodifier,12/17/2019,12:24,12986,1,left,left,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+22,3,v3,1,new,blicket,no,false,blicket,new,12/17/2019,12:27,5823,2,right,left,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+23,3,v3,1,new,sprock,yes,true,sprock,new,12/17/2019,12:44,5359,1,left,left,false,false,gade
+23,3,v3,2,new,blicket,no,true,blicket,new,12/17/2019,12:44,7700,2,right,right,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+24,3,v8,1,,sprock,no,true,sprock,nomodifier,12/17/2019,12:55,7553,1,left,left,false,false,gade
+24,3,v8,2,new,zorp,no,true,zorp,new,12/17/2019,12:55,5365,2,right,right,true,false,wug
+24,3,v8,3,new,boti,yes,true,boti,new,12/17/2019,12:55,5299,1,left,left,true,true,toma
+24,3,v8,4,,blicket,yes,true,blicket,nomodifier,12/17/2019,12:55,7218,2,right,right,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+25,4,v5,1,new,koba,yes,true,koba,new,12/17/2019,12:56,4938,2,right,right,true,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+25,4,v8,1,,sprock,no,true,sprock,nomodifier,12/17/2019,12:58,12473,2,right,right,true,false,gade
+25,4,v8,2,,blicket,yes,false,blicket,nomodifier,12/17/2019,12:58,6727,1,left,right,true,true,koba
+25,4,v8,3,new,zorp,no,false,zorp,new,12/17/2019,12:58,6805,2,right,left,false,true,wug
+25,4,v8,4,new,boti,yes,false,boti,new,12/17/2019,12:58,6341,1,left,right,false,false,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+25,4,v6,1,new,zorp,yes,true,zorp,new,12/17/2019,12:11,15335,2,right,right,false,true,wug
+25,4,v6,2,,koba,no,false,koba,nomodifier,12/17/2019,12:11,9663,1,left,right,false,false,blicket
+25,4,v6,3,new,boti,no,false,boti,new,12/17/2019,12:11,6694,2,right,left,true,false,toma
+25,4,v6,4,,gade,yes,false,gade,nomodifier,12/17/2019,12:11,9291,1,left,right,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+27,NaN,v2,1,new,toma,no,true,toma,new,12/17/2019,13:42,17014,2,right,right,false,true,boti
+27,NaN,v2,2,,blicket,no,true,blicket,nomodifier,12/17/2019,13:42,11141,1,left,left,true,true,koba
+27,NaN,v2,3,,sprock,yes,true,sprock,nomodifier,12/17/2019,13:42,7888,2,right,right,true,false,gade
+27,NaN,v2,4,new,wug,yes,true,wug,new,12/17/2019,13:42,7181,1,left,left,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+28,3,v8,1,,sprock,no,false,sprock,nomodifier,12/17/2019,14:43,7040,1,left,right,false,false,gade
+28,3,v8,2,,blicket,yes,true,blicket,nomodifier,12/17/2019,14:43,5150,2,right,right,true,false,koba
+28,3,v8,3,new,boti,yes,true,boti,new,12/17/2019,14:43,5265,2,right,right,false,true,toma
+28,3,v8,4,new,zorp,no,true,zorp,new,12/17/2019,14:43,6837,1,left,left,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+29,3,v2,1,,blicket,no,true,blicket,nomodifier,12/17/2019,14:49,5634,1,left,left,true,true,koba
+29,3,v2,2,new,toma,no,false,toma,new,12/17/2019,14:49,5661,2,right,left,true,false,boti
+29,3,v2,3,new,wug,yes,true,wug,new,12/17/2019,14:49,5608,2,right,right,false,true,zorp
+29,3,v2,4,,sprock,yes,true,sprock,nomodifier,12/17/2019,14:49,5283,1,left,left,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v5,1,,wug,no,false,wug,nomodifier,1/24/2020,13:27,10843,1,left,right,true,true,zorp
+0,0,v5,2,new,gade,no,false,gade,new,1/24/2020,13:27,6976,2,right,left,true,false,sprock
+0,0,v5,3,,toma,yes,true,toma,nomodifier,1/24/2020,13:27,6108,2,right,right,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v1,1,,zorp,no,false,zorp,nomodifier,1/24/2020,13:32,4116,2,right,left,false,true,wug
+0,0,v1,2,new,blicket,yes,true,blicket,new,1/24/2020,13:32,45039,1,left,left,true,true,koba
+0,0,v8,1,,blicket,yes,false,blicket,nomodifier,1/24/2020,13:32,60941,2,right,left,false,true,koba
+0,0,v1,3,new,sprock,no,false,sprock,new,1/24/2020,13:32,4424,1,left,right,false,false,gade
+0,0,v8,2,new,boti,yes,false,boti,new,1/24/2020,13:32,7036,1,left,right,true,true,toma
+0,0,v1,4,,boti,yes,false,boti,nomodifier,1/24/2020,13:32,10416,2,right,left,true,false,toma
+0,0,v8,3,new,zorp,no,true,zorp,new,1/24/2020,13:32,6584,2,right,right,true,false,wug
+0,0,v8,4,,sprock,no,true,sprock,nomodifier,1/24/2020,13:32,4561,1,left,left,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+30,5,v3,1,new,blicket,no,true,blicket,new,1/24/2020,13:35,5311,1,left,left,true,true,koba
+30,5,v3,2,,wug,yes,true,wug,nomodifier,1/24/2020,13:35,4918,1,left,left,false,false,zorp
+30,5,v3,3,new,sprock,yes,true,sprock,new,1/24/2020,13:35,5339,2,right,right,false,true,gade
+30,5,v3,4,,toma,no,true,toma,nomodifier,1/24/2020,13:35,5020,2,right,right,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+31,4,v4,1,new,toma,yes,true,toma,new,1/24/2020,13:57,9238,1,left,left,true,true,boti
+31,4,v4,2,,gade,no,true,gade,nomodifier,1/24/2020,13:57,7420,2,right,right,false,true,sprock
+31,4,v4,3,,koba,yes,true,koba,nomodifier,1/24/2020,13:57,5163,1,left,left,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+32,3,v2,1,new,wug,yes,false,wug,new,1/24/2020,14:21,5654,1,left,right,false,false,zorp
+32,3,v2,2,new,toma,no,false,toma,new,1/24/2020,14:21,6031,2,right,left,false,true,boti
+32,3,v2,3,,sprock,yes,true,sprock,nomodifier,1/24/2020,14:21,5469,1,left,left,true,true,gade
+32,3,v2,4,,blicket,no,false,blicket,nomodifier,1/24/2020,14:21,4924,2,right,left,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+33,6,v2,1,new,toma,no,true,toma,new,1/24/2020,15:22,5428,2,right,right,false,true,boti
+34,4,v2,1,,sprock,yes,false,sprock,nomodifier,1/24/2020,15:22,5618,1,left,right,false,false,gade
+33,6,v2,2,new,wug,yes,true,wug,new,1/24/2020,15:22,4304,2,right,right,true,false,zorp
+34,4,v2,2,,blicket,no,false,blicket,nomodifier,1/24/2020,15:22,5685,1,left,right,true,true,koba
+33,6,v2,3,,blicket,no,true,blicket,nomodifier,1/24/2020,15:22,5170,1,left,left,true,true,koba
+34,4,v2,3,new,toma,no,true,toma,new,1/24/2020,15:22,5342,2,right,right,false,true,boti
+33,6,v2,4,,sprock,yes,false,sprock,nomodifier,1/24/2020,15:22,5537,1,left,right,false,false,gade
+34,4,v2,4,new,wug,yes,true,wug,new,1/24/2020,15:22,4997,2,right,right,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+35,5,v1,1,new,sprock,no,true,sprock,new,1/24/2020,15:26,5649,1,left,left,false,false,gade
+35,5,v1,2,new,blicket,yes,true,blicket,new,1/24/2020,15:26,4831,2,right,right,true,false,koba
+35,5,v1,3,,boti,yes,true,boti,nomodifier,1/24/2020,15:26,5040,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,1,,boti,no,false,boti,nomodifier,1/27/2020,11:22,8607,1,left,right,false,false,toma
+0,0,v7,2,new,koba,no,false,koba,new,1/27/2020,11:22,4811,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v7,3,new,gade,yes,false,gade,new,1/27/2020,11:22,5458,2,right,left,true,false,sprock
+0,0,v2,1,new,wug,yes,false,wug,new,1/27/2020,11:22,5666,1,left,right,false,false,zorp
+0,0,v2,2,new,toma,no,false,toma,new,1/27/2020,11:22,9624,2,right,left,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+36,6,v3,1,new,blicket,no,true,blicket,new,1/27/2020,11:26,4069,1,left,left,true,true,koba
+36,6,v3,2,,toma,no,true,toma,nomodifier,1/27/2020,11:26,4839,2,right,right,true,false,boti
+36,6,v3,3,,wug,yes,true,wug,nomodifier,1/27/2020,11:26,4930,2,right,right,false,true,zorp
+36,6,v3,4,new,sprock,yes,true,sprock,new,1/27/2020,11:26,5011,1,left,left,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,7,v4,1,,koba,yes,true,koba,nomodifier,1/27/2020,11:32,5314,2,right,right,false,true,blicket
+37,5,v2,2,new,wug,yes,true,wug,new,1/27/2020,11:26,4112,2,right,right,true,false,zorp
+0,7,v4,2,new,wug,no,false,wug,new,1/27/2020,11:32,5175,2,right,left,true,false,zorp
+37,5,v2,3,,blicket,no,true,blicket,nomodifier,1/27/2020,11:26,4480,2,right,right,false,true,koba
+0,7,v4,3,,gade,no,false,gade,nomodifier,1/27/2020,11:32,5303,1,left,right,true,true,sprock
+37,5,v2,4,new,toma,no,true,toma,new,1/27/2020,11:26,4711,1,left,left,true,true,boti
+0,7,v4,4,new,toma,yes,true,toma,new,1/27/2020,11:32,5527,1,left,left,false,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+38,6,v2,1,new,toma,no,true,toma,new,1/27/2020,11:39,18169,2,right,right,true,false,boti
+38,6,v2,2,,sprock,yes,true,sprock,nomodifier,1/27/2020,11:39,5291,1,left,left,true,true,gade
+38,6,v2,3,new,wug,yes,true,wug,new,1/27/2020,11:39,4003,1,left,left,false,false,zorp
+38,6,v2,4,,blicket,no,true,blicket,nomodifier,1/27/2020,11:39,4057,2,right,right,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+39,3,v7,1,,zorp,yes,false,zorp,nomodifier,1/27/2020,11:40,8765,2,right,left,true,false,wug
+39,3,v7,2,,boti,no,false,boti,nomodifier,1/27/2020,11:40,4277,1,left,right,false,false,toma
+39,3,v7,3,new,gade,yes,false,gade,new,1/27/2020,11:40,4275,2,right,left,false,true,sprock
+39,3,v7,4,new,koba,no,true,koba,new,1/27/2020,11:40,5298,1,left,left,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+40,3,v7,1,new,koba,no,false,koba,new,1/27/2020,11:52,10814,1,left,right,false,false,blicket
+41,3,v5,1,new,koba,yes,true,koba,new,1/27/2020,11:52,9659,1,left,left,true,true,blicket
+41,3,v5,2,new,gade,no,false,gade,new,1/27/2020,11:52,4107,1,left,right,false,false,sprock
+40,3,v7,2,new,gade,yes,false,gade,new,1/27/2020,11:52,4562,1,left,right,true,true,sprock
+41,3,v5,3,,wug,no,true,wug,nomodifier,1/27/2020,11:52,6757,2,right,right,true,false,zorp
+40,3,v7,3,,boti,no,true,boti,nomodifier,1/27/2020,11:52,7531,2,right,right,false,true,toma
+41,3,v5,4,,toma,yes,true,toma,nomodifier,1/27/2020,11:52,5242,2,right,right,false,true,boti
+40,3,v7,4,,zorp,yes,false,zorp,nomodifier,1/27/2020,11:52,5295,2,right,left,true,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+42,3,v5,1,,toma,yes,false,toma,nomodifier,1/27/2020,11:55,11293,2,right,left,false,true,boti
+42,3,v5,2,new,gade,no,true,gade,new,1/27/2020,11:55,7494,1,left,left,true,true,sprock
+42,3,v5,3,,wug,no,true,wug,nomodifier,1/27/2020,11:55,8619,2,right,right,true,false,zorp
+42,3,v5,4,new,koba,yes,true,koba,new,1/27/2020,11:55,7188,1,left,left,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+43,4,v2,1,new,wug,yes,true,wug,new,1/27/2020,12:03,10781,2,right,right,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+43,4,v2,2,,blicket,no,true,blicket,nomodifier,1/27/2020,12:03,9498,2,right,right,false,true,koba
+44,3,v1,1,,zorp,no,false,zorp,nomodifier,1/27/2020,12:04,26119,1,left,right,false,false,wug
+43,4,v2,3,new,toma,no,false,toma,new,1/27/2020,12:03,21970,1,left,right,false,false,boti
+44,3,v1,2,,boti,yes,true,boti,nomodifier,1/27/2020,12:04,7549,1,left,left,true,true,toma
+43,4,v2,4,,sprock,yes,true,sprock,nomodifier,1/27/2020,12:03,5237,1,left,left,true,true,gade
+44,3,v1,3,new,blicket,yes,true,blicket,new,1/27/2020,12:04,7542,2,right,right,true,false,koba
+44,3,v1,4,new,sprock,no,true,sprock,new,1/27/2020,12:04,6937,2,right,right,false,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+45,4,v2,1,new,wug,yes,false,wug,new,1/27/2020,12:09,5742,1,left,right,false,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+45,4,v2,2,new,toma,no,false,toma,new,1/27/2020,12:09,5130,2,right,left,true,false,boti
+46,6,v3,1,new,sprock,yes,true,sprock,new,1/27/2020,12:09,4134,1,left,left,true,true,gade
+45,4,v2,3,,blicket,no,false,blicket,nomodifier,1/27/2020,12:09,5771,1,left,right,true,true,koba
+46,6,v3,2,,wug,yes,true,wug,nomodifier,1/27/2020,12:09,5026,2,right,right,true,false,zorp
+45,4,v2,4,,sprock,yes,false,sprock,nomodifier,1/27/2020,12:09,5225,2,right,left,false,true,gade
+46,6,v3,3,,toma,no,true,toma,nomodifier,1/27/2020,12:09,5092,2,right,right,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,6,v6,1,,koba,no,true,koba,nomodifier,1/27/2020,12:11,5418,2,right,right,false,true,blicket
+0,6,v6,2,new,zorp,yes,true,zorp,new,1/27/2020,12:11,4955,2,right,right,true,false,wug
+0,6,v6,3,new,boti,no,true,boti,new,1/27/2020,12:11,5202,1,left,left,false,false,toma
+0,6,v6,4,,gade,yes,true,gade,nomodifier,1/27/2020,12:11,4859,1,left,left,true,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+47,6,v6,1,,gade,yes,true,gade,nomodifier,1/27/2020,12:16,5573,1,left,left,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+47,6,v6,2,,koba,no,true,koba,nomodifier,1/27/2020,12:16,6827,2,right,right,true,false,blicket
+48,3,v6,1,,gade,yes,true,gade,nomodifier,1/27/2020,12:16,7509,1,left,left,true,true,sprock
+47,6,v6,3,new,zorp,yes,true,zorp,new,1/27/2020,12:16,5737,2,right,right,false,true,wug
+48,3,v6,2,new,zorp,yes,false,zorp,new,1/27/2020,12:16,6795,1,left,right,false,false,wug
+47,6,v6,4,new,boti,no,true,boti,new,1/27/2020,12:16,4196,1,left,left,true,true,toma
+48,3,v6,3,,koba,no,true,koba,nomodifier,1/27/2020,12:16,6957,2,right,right,true,false,blicket
+48,3,v6,4,new,boti,no,true,boti,new,1/27/2020,12:16,8544,2,right,right,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+49,6,v4,1,,koba,yes,true,koba,nomodifier,1/27/2020,12:18,7404,1,left,left,false,false,blicket
+49,6,v4,2,new,wug,no,true,wug,new,1/27/2020,12:18,7459,2,right,right,false,true,zorp
+49,6,v4,3,,gade,no,true,gade,nomodifier,1/27/2020,12:18,7383,2,right,right,true,false,sprock
+49,6,v4,4,new,toma,yes,true,toma,new,1/27/2020,12:18,4910,1,left,left,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+50,3,v5,1,new,koba,yes,true,koba,new,1/27/2020,12:25,12011,1,left,left,false,false,blicket
+50,3,v5,2,,toma,yes,true,toma,nomodifier,1/27/2020,12:25,10759,2,right,right,false,true,boti
+50,3,v5,3,new,gade,no,false,gade,new,1/27/2020,12:25,17126,1,left,right,true,true,sprock
+50,3,v5,4,,wug,no,false,wug,nomodifier,1/27/2020,12:25,4248,2,right,left,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+51,4,v2,1,,blicket,no,true,blicket,nomodifier,1/27/2020,12:37,6866,1,left,left,true,true,koba
+51,4,v2,2,,sprock,yes,true,sprock,nomodifier,1/27/2020,12:37,4371,1,left,left,false,false,gade
+51,4,v2,3,new,toma,no,true,toma,new,1/27/2020,12:37,5102,2,right,right,false,true,boti
+51,4,v2,4,new,wug,yes,true,wug,new,1/27/2020,12:37,4384,2,right,right,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+52,5,v3,1,,wug,yes,true,wug,nomodifier,1/27/2020,12:49,6870,2,right,right,true,false,zorp
+52,5,v3,2,new,blicket,no,true,blicket,new,1/27/2020,12:49,7290,1,left,left,false,false,koba
+52,5,v3,3,,toma,no,true,toma,nomodifier,1/27/2020,12:49,5003,2,right,right,false,true,boti
+52,5,v3,4,new,sprock,yes,false,sprock,new,1/27/2020,12:49,5416,1,left,right,true,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,7,v3,1,,wug,yes,true,wug,nomodifier,1/27/2020,13:07,8242,1,left,left,true,true,zorp
+0,7,v3,2,,toma,no,false,toma,nomodifier,1/27/2020,13:07,5887,2,right,left,false,true,boti
+0,7,v3,3,new,sprock,yes,true,sprock,new,1/27/2020,13:07,5138,1,left,left,false,false,gade
+0,7,v3,4,new,blicket,no,false,blicket,new,1/27/2020,13:07,5455,2,right,left,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,4,v5,1,new,koba,yes,true,koba,new,1/27/2020,13:15,5489,2,right,right,false,true,blicket
+0,4,v5,2,new,gade,no,false,gade,new,1/27/2020,13:15,5193,1,left,right,false,false,sprock
+0,4,v5,3,,wug,no,false,wug,nomodifier,1/27/2020,13:15,5606,2,right,left,true,false,zorp
+0,4,v5,4,,toma,yes,false,toma,nomodifier,1/27/2020,13:15,5870,1,left,right,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+53,4,v4,1,,koba,yes,false,koba,nomodifier,1/27/2020,13:19,12268,1,left,right,true,true,blicket
+53,4,v4,2,,gade,no,false,gade,nomodifier,1/27/2020,13:19,9671,1,left,right,false,false,sprock
+53,4,v4,3,new,toma,yes,true,toma,new,1/27/2020,13:19,7206,2,right,right,false,true,boti
+53,4,v4,4,new,wug,no,false,wug,new,1/27/2020,13:19,7190,2,right,left,true,false,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+54,5,v8,1,,blicket,yes,true,blicket,nomodifier,1/27/2020,13:31,5715,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+54,5,v8,2,,sprock,no,true,sprock,nomodifier,1/27/2020,13:31,6895,1,left,left,true,true,gade
+0,7,v8,1,new,boti,yes,true,boti,new,1/27/2020,13:31,5149,1,left,left,true,true,toma
+54,5,v8,3,new,zorp,no,true,zorp,new,1/27/2020,13:31,5589,2,right,right,false,true,wug
+0,7,v8,2,new,zorp,no,false,zorp,new,1/27/2020,13:31,5275,1,left,right,false,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,0,v2,1,,sprock,yes,false,sprock,nomodifier,2/13/2020,10:39,7319,2,right,left,false,true,gade
+0,0,v2,2,,blicket,no,false,blicket,nomodifier,2/13/2020,10:39,7191,1,left,right,false,false,koba
+0,0,v2,3,new,wug,yes,false,wug,new,2/13/2020,10:39,17210,1,left,right,true,true,zorp
+0,0,v2,4,new,toma,no,false,toma,new,2/13/2020,10:39,46339,2,right,left,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+55,3,v4,1,new,wug,no,true,wug,new,2/13/2020,10:59,6758,1,left,left,false,false,zorp
+55,3,v4,2,,gade,no,false,gade,nomodifier,2/13/2020,10:59,5234,1,left,right,true,true,sprock
+55,3,v4,3,new,toma,yes,false,toma,new,2/13/2020,10:59,5629,2,right,left,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+56,3,v1,1,,boti,yes,false,boti,nomodifier,2/13/2020,11:50,5140,1,left,right,false,false,toma
+56,3,v1,2,new,sprock,no,false,sprock,new,2/13/2020,11:50,5304,2,right,left,true,false,gade
+56,3,v1,3,,zorp,no,false,zorp,nomodifier,2/13/2020,11:50,5264,2,right,left,false,true,wug
+56,3,v1,4,new,blicket,yes,true,blicket,new,2/13/2020,11:50,5351,1,left,left,true,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+57,3,v3,1,,toma,no,true,toma,nomodifier,2/13/2020,12:02,38497,2,right,right,true,false,boti
+57,3,v3,2,,wug,yes,true,wug,nomodifier,2/13/2020,12:02,7631,2,right,right,false,true,zorp
+57,3,v3,3,new,blicket,no,true,blicket,new,2/13/2020,12:02,4418,1,left,left,false,false,koba
+57,3,v3,4,new,sprock,yes,true,sprock,new,2/13/2020,12:02,6036,1,left,left,true,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+58,6,v8,1,new,zorp,no,true,zorp,new,2/13/2020,12:08,7050,1,left,left,true,true,wug
+58,6,v8,2,new,boti,yes,false,boti,new,2/13/2020,12:08,5396,2,right,left,true,false,toma
+58,6,v8,3,,blicket,yes,true,blicket,nomodifier,2/13/2020,12:08,5567,1,left,left,false,false,koba
+58,6,v8,4,,sprock,no,true,sprock,nomodifier,2/13/2020,12:08,5021,2,right,right,false,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+59,5,v4,1,new,wug,no,false,wug,new,2/13/2020,12:21,7559,2,right,left,false,true,zorp
+59,5,v4,2,new,toma,yes,true,toma,new,2/13/2020,12:21,7372,1,left,left,true,true,boti
+59,5,v4,3,,koba,yes,true,koba,nomodifier,2/13/2020,12:21,5503,1,left,left,false,false,blicket
+59,5,v4,4,,gade,no,true,gade,nomodifier,2/13/2020,12:21,5135,2,right,right,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+60,5,v7,1,new,gade,yes,true,gade,new,2/13/2020,12:30,10865,2,right,right,true,false,sprock
+60,5,v7,2,,zorp,yes,true,zorp,nomodifier,2/13/2020,12:30,5953,2,right,right,false,true,wug
+60,5,v7,3,new,koba,no,true,koba,new,2/13/2020,12:30,5803,1,left,left,false,false,blicket
+60,5,v7,4,,boti,no,true,boti,nomodifier,2/13/2020,12:30,4954,1,left,left,true,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+0,4,v2,1,,sprock,yes,true,sprock,nomodifier,2/13/2020,12:35,8867,1,left,left,false,false,gade
+0,4,v2,2,new,toma,no,true,toma,new,2/13/2020,12:35,14493,1,left,left,true,true,boti
+0,4,v2,3,new,wug,yes,false,wug,new,2/13/2020,12:35,6868,2,right,left,false,true,zorp
+0,4,v2,4,,blicket,no,true,blicket,nomodifier,2/13/2020,12:35,5632,2,right,right,true,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+61,6,v4,1,,koba,yes,true,koba,nomodifier,2/13/2020,12:43,5270,1,left,left,false,false,blicket
+61,6,v4,2,new,wug,no,false,wug,new,2/13/2020,12:43,18062,2,right,left,false,true,zorp
+61,6,v4,3,,gade,no,false,gade,nomodifier,2/13/2020,12:43,5624,2,right,left,true,false,sprock
+61,6,v4,4,new,toma,yes,true,toma,new,2/13/2020,12:43,5227,1,left,left,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+62,6,v1,1,new,sprock,no,false,sprock,new,2/22/2020,10:37,8275,1,left,right,true,true,gade
+62,6,v1,2,,boti,yes,true,boti,nomodifier,2/22/2020,10:37,5101,2,right,right,true,false,toma
+62,6,v1,3,new,blicket,yes,true,blicket,new,2/22/2020,10:37,7511,2,right,right,false,true,koba
+62,6,v1,4,,zorp,no,false,zorp,nomodifier,2/22/2020,10:37,5290,1,left,right,false,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+62,4,v6,1,new,boti,no,false,boti,new,2/22/2020,10:41,8096,2,right,left,false,true,toma
+62,4,v6,2,,koba,no,true,koba,nomodifier,2/22/2020,10:41,5335,2,right,right,true,false,blicket
+62,4,v6,3,,gade,yes,true,gade,nomodifier,2/22/2020,10:41,6088,1,left,left,false,false,sprock
+62,4,v6,4,new,zorp,yes,true,zorp,new,2/22/2020,10:41,5187,1,left,left,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+64,5,v4,1,new,wug,no,true,wug,new,2/22/2020,11:01,5546,2,right,right,true,false,zorp
+64,5,v4,2,,gade,no,true,gade,nomodifier,2/22/2020,11:01,12624,2,right,right,false,true,sprock
+64,5,v4,3,,koba,yes,true,koba,nomodifier,2/22/2020,11:01,5146,1,left,left,false,false,blicket
+64,5,v4,4,new,toma,yes,true,toma,new,2/22/2020,11:01,5272,1,left,left,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+65,6,v4,1,new,wug,no,true,wug,new,2/22/2020,11:06,6890,2,right,right,false,true,zorp
+65,6,v4,2,new,toma,yes,true,toma,new,2/22/2020,11:06,5067,1,left,left,true,true,boti
+65,6,v4,3,,gade,no,true,gade,nomodifier,2/22/2020,11:06,6272,1,left,left,false,false,sprock
+65,6,v4,4,,koba,yes,true,koba,nomodifier,2/22/2020,11:06,7352,2,right,right,true,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+66,3,v1,1,new,sprock,no,true,sprock,new,2/22/2020,12:49,5631,1,left,left,false,false,gade
+66,3,v1,2,new,blicket,yes,true,blicket,new,2/22/2020,12:49,5383,2,right,right,false,true,koba
+66,3,v1,3,,boti,yes,false,boti,nomodifier,2/22/2020,12:49,5444,2,right,left,true,false,toma
+66,3,v1,4,,zorp,no,true,zorp,nomodifier,2/22/2020,12:49,5510,1,left,left,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+67,6,v4,1,,koba,yes,true,koba,nomodifier,2/22/2020,12:56,7217,2,right,right,false,true,blicket
+67,6,v4,2,new,toma,yes,true,toma,new,2/22/2020,12:56,5699,1,left,left,false,false,boti
+67,6,v4,3,new,wug,no,true,wug,new,2/22/2020,12:56,8149,1,left,left,true,true,zorp
+67,6,v4,4,,gade,no,false,gade,nomodifier,2/22/2020,12:56,5657,2,right,left,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+68,5,v5,1,,wug,no,true,wug,nomodifier,2/22/2020,12:58,12283,1,left,left,false,false,zorp
+68,5,v5,2,new,koba,yes,true,koba,new,2/22/2020,12:58,9799,2,right,right,false,true,blicket
+68,5,v5,3,,toma,yes,true,toma,nomodifier,2/22/2020,12:58,5508,1,left,left,true,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+69,5,v4,1,new,wug,no,true,wug,new,2/22/2020,13:07,5272,1,left,left,true,true,zorp
+69,5,v4,2,,koba,yes,true,koba,nomodifier,2/22/2020,13:07,5374,2,right,right,false,true,blicket
+69,5,v4,3,new,toma,yes,true,toma,new,2/22/2020,13:07,5048,2,right,right,true,false,boti
+69,5,v4,4,,gade,no,false,gade,nomodifier,2/22/2020,13:07,12737,1,left,right,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+70,6,v8,1,new,zorp,no,false,zorp,new,2/22/2020,13:36,5023,1,left,right,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+70,6,v8,2,new,boti,yes,true,boti,new,2/22/2020,13:43,4736,2,right,right,true,false,toma
+70,6,v8,3,new,zorp,no,false,zorp,new,2/22/2020,13:43,4630,2,right,left,false,true,wug
+70,6,v8,4,,sprock,no,true,sprock,nomodifier,2/22/2020,13:43,5149,1,left,left,true,true,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+71,5,v8,1,,sprock,no,true,sprock,nomodifier,2/22/2020,13:52,6327,1,left,left,true,true,gade
+71,5,v8,2,,blicket,yes,true,blicket,nomodifier,2/22/2020,13:52,4974,2,right,right,false,true,koba
+71,5,v8,3,new,boti,yes,true,boti,new,2/22/2020,13:52,4414,1,left,left,false,false,toma
+71,5,v8,4,new,zorp,no,true,zorp,new,2/22/2020,13:52,5336,2,right,right,true,false,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+72,4,v4,1,new,toma,yes,true,toma,new,2/22/2020,13:56,5483,2,right,right,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+72,4,v6,1,,koba,no,true,koba,nomodifier,2/22/2020,14:00,7394,1,left,left,false,false,blicket
+72,4,v6,2,new,boti,no,true,boti,new,2/22/2020,14:00,5136,2,right,right,true,false,toma
+72,4,v6,3,,gade,yes,false,gade,nomodifier,2/22/2020,14:00,5553,2,right,left,false,true,sprock
+72,4,v6,4,new,zorp,yes,true,zorp,new,2/22/2020,14:00,5227,1,left,left,true,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+73,6,v8,1,new,boti,yes,true,boti,new,2/22/2020,14:10,5347,2,right,right,false,true,toma
+73,6,v8,2,new,zorp,no,true,zorp,new,2/22/2020,14:10,5688,1,left,left,true,true,wug
+73,6,v8,3,,blicket,yes,true,blicket,nomodifier,2/22/2020,14:10,5855,2,right,right,true,false,koba
+73,6,v8,4,,sprock,no,true,sprock,nomodifier,2/22/2020,14:10,5060,1,left,left,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+74,4,v4,2,new,wug,no,false,wug,new,2/22/2020,14:43,5786,2,right,left,false,true,zorp
+74,4,v4,3,new,toma,yes,true,toma,new,2/22/2020,14:43,5366,1,left,left,true,true,boti
+74,4,v4,4,,gade,no,true,gade,nomodifier,2/22/2020,14:43,5025,2,right,right,true,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+75,3,v4,1,,koba,yes,true,koba,nomodifier,2/22/2020,14:46,6312,1,left,left,true,true,blicket
+75,3,v4,2,new,wug,no,true,wug,new,2/22/2020,14:46,5395,2,right,right,false,true,zorp
+75,3,v4,3,,gade,no,true,gade,nomodifier,2/22/2020,14:46,5187,2,right,right,true,false,sprock
+75,3,v4,4,new,toma,yes,true,toma,new,2/22/2020,14:46,4773,1,left,left,false,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+76,6,v8,1,,blicket,yes,true,blicket,nomodifier,2/22/2020,14:50,5409,2,right,right,true,false,koba
+76,6,v8,2,,sprock,no,true,sprock,nomodifier,2/22/2020,14:50,5513,1,left,left,false,false,gade
+76,6,v8,3,new,zorp,no,true,zorp,new,2/22/2020,14:50,5705,1,left,left,true,true,wug
+76,6,v8,4,new,boti,yes,true,boti,new,2/22/2020,14:50,4875,2,right,right,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+77,3,v5,1,new,gade,no,true,gade,new,2/22/2020,14:56,7269,1,left,left,true,true,sprock
+77,3,v5,2,,wug,no,true,wug,nomodifier,2/22/2020,14:56,5388,2,right,right,false,true,zorp
+77,3,v5,3,new,koba,yes,true,koba,new,2/22/2020,14:56,4069,2,right,right,true,false,blicket
+77,3,v5,4,,toma,yes,true,toma,nomodifier,2/22/2020,14:56,5753,1,left,left,false,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+78,3,v8,1,,sprock,no,true,sprock,nomodifier,2/22/2020,14:58,5747,1,left,left,false,false,gade
+78,3,v8,2,new,boti,yes,true,boti,new,2/22/2020,14:58,6830,1,left,left,true,true,toma
+78,3,v8,3,,blicket,yes,true,blicket,nomodifier,2/22/2020,14:58,5519,2,right,right,true,false,koba
+78,3,v8,4,new,zorp,no,true,zorp,new,2/22/2020,14:58,5375,2,right,right,false,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS00,0,v1,1,new,sprock,no,true,sprock,new,2/24/2020,8:43,11547,1,left,left,true,true,gade
+CS00,0,v1,2,new,blicket,yes,true,blicket,new,2/24/2020,8:43,5569,1,left,left,false,false,koba
+CS00,0,v1,3,,zorp,no,true,zorp,nomodifier,2/24/2020,8:43,4850,2,right,right,true,false,wug
+CS00,0,v1,4,,boti,yes,true,boti,nomodifier,2/24/2020,8:43,6754,2,right,right,false,true,toma
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS01,6,v2,1,new,wug,yes,true,wug,new,2/24/2020,8:47,10779,2,right,right,false,true,zorp
+CS01,6,v2,2,new,toma,no,false,toma,new,2/24/2020,8:47,7251,1,left,right,true,true,boti
+CS01,6,v2,3,,sprock,yes,true,sprock,nomodifier,2/24/2020,8:47,8661,2,right,right,true,false,gade
+CS01,6,v2,4,,blicket,no,false,blicket,nomodifier,2/24/2020,8:47,7245,1,left,right,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS02,5,v5,1,,wug,no,false,wug,nomodifier,2/24/2020,9:02,5806,1,left,right,false,false,zorp
+CS02,5,v5,2,,toma,yes,true,toma,nomodifier,2/24/2020,9:02,5171,2,right,right,true,false,boti
+CS02,5,v5,3,new,gade,no,true,gade,new,2/24/2020,9:02,6982,1,left,left,true,true,sprock
+CS02,5,v5,4,new,koba,yes,true,koba,new,2/24/2020,9:02,5103,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS03,5,v6,1,,gade,yes,true,gade,nomodifier,2/24/2020,9:08,7357,2,right,right,false,true,sprock
+CS03,5,v6,2,new,boti,no,false,boti,new,2/24/2020,9:08,8347,2,right,left,true,false,toma
+CS03,5,v6,3,new,zorp,yes,true,zorp,new,2/24/2020,9:08,5406,1,left,left,false,false,wug
+CS03,5,v6,4,,koba,no,false,koba,nomodifier,2/24/2020,9:08,5253,1,left,right,true,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS04,5,v7,1,,boti,no,false,boti,nomodifier,2/24/2020,9:12,8114,1,left,right,false,false,toma
+CS04,5,v7,2,new,gade,yes,false,gade,new,2/24/2020,9:12,10478,1,left,right,true,true,sprock
+CS04,5,v7,3,new,koba,no,true,koba,new,2/24/2020,9:12,7774,2,right,right,true,false,blicket
+CS04,5,v7,4,,zorp,yes,true,zorp,nomodifier,2/24/2020,9:12,5829,2,right,right,false,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS05,5,v2,1,,sprock,yes,true,sprock,nomodifier,2/24/2020,9:24,7790,2,right,right,false,true,gade
+CS05,5,v2,2,new,wug,yes,true,wug,new,2/24/2020,9:24,5666,1,left,left,true,true,zorp
+CS05,5,v2,3,new,toma,no,true,toma,new,2/24/2020,9:24,5736,2,right,right,true,false,boti
+CS05,5,v2,4,,blicket,no,true,blicket,nomodifier,2/24/2020,9:24,5985,1,left,left,false,false,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS06,5,v8,1,new,boti,yes,true,boti,new,2/24/2020,10:10,5147,2,right,right,false,true,toma
+CS06,5,v8,2,,blicket,yes,true,blicket,nomodifier,2/24/2020,10:10,4111,1,left,left,true,true,koba
+CS06,5,v8,3,new,zorp,no,false,zorp,new,2/24/2020,10:10,6242,2,right,left,true,false,wug
+CS06,5,v8,4,,sprock,no,false,sprock,nomodifier,2/24/2020,10:10,5248,1,left,right,false,false,gade
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS07,5,v4,1,new,toma,yes,true,toma,new,2/24/2020,10:12,6691,2,right,right,false,true,boti
+CS07,5,v4,2,,koba,yes,true,koba,nomodifier,2/24/2020,10:12,5355,1,left,left,true,true,blicket
+CS07,5,v4,3,new,wug,no,true,wug,new,2/24/2020,10:12,5633,2,right,right,true,false,zorp
+CS07,5,v4,4,,gade,no,true,gade,nomodifier,2/24/2020,10:12,5510,1,left,left,false,false,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS08,5,v1,1,new,sprock,no,true,sprock,new,2/24/2020,10:22,12406,1,left,left,false,false,gade
+CS08,5,v1,2,,zorp,no,true,zorp,nomodifier,2/24/2020,10:22,5239,1,left,left,true,true,wug
+CS08,5,v1,3,,boti,yes,true,boti,nomodifier,2/24/2020,10:22,4897,2,right,right,true,false,toma
+CS08,5,v1,4,new,blicket,yes,true,blicket,new,2/24/2020,10:22,4915,2,right,right,false,true,koba
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS09,5,v6,1,,gade,yes,true,gade,nomodifier,2/24/2020,10:24,5304,2,right,right,false,true,sprock
+CS09,5,v6,2,new,zorp,yes,true,zorp,new,2/24/2020,10:24,5398,2,right,right,true,false,wug
+CS09,5,v6,3,new,boti,no,false,boti,new,2/24/2020,10:24,8041,1,left,right,true,true,toma
+CS09,5,v6,4,,koba,no,false,koba,nomodifier,2/24/2020,10:24,5028,1,left,right,false,false,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS10,5,v6,1,,koba,no,true,koba,nomodifier,2/24/2020,10:29,5369,2,right,right,true,false,blicket
+CS10,5,v6,2,new,boti,no,true,boti,new,2/24/2020,10:29,5033,1,left,left,false,false,toma
+CS10,5,v6,3,new,zorp,yes,true,zorp,new,2/24/2020,10:29,6800,1,left,left,true,true,wug
+CS10,5,v6,4,,gade,yes,true,gade,nomodifier,2/24/2020,10:29,5001,2,right,right,false,true,sprock
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS11,5,v2,1,,blicket,no,false,blicket,nomodifier,2/24/2020,10:34,7372,2,right,left,true,false,koba
+CS11,5,v2,2,new,wug,yes,false,wug,new,2/24/2020,10:34,7007,1,left,right,true,true,zorp
+CS11,5,v2,3,,sprock,yes,true,sprock,nomodifier,2/24/2020,10:34,5503,2,right,right,false,true,gade
+CS11,5,v2,4,new,toma,no,false,toma,new,2/24/2020,10:34,5291,1,left,right,false,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS12,5,v4,1,new,wug,no,true,wug,new,2/24/2020,10:40,5213,1,left,left,false,false,zorp
+CS12,5,v4,2,,gade,no,true,gade,nomodifier,2/24/2020,10:40,5037,2,right,right,false,true,sprock
+CS12,5,v4,3,,koba,yes,true,koba,nomodifier,2/24/2020,10:40,4893,1,left,left,true,true,blicket
+CS12,5,v4,4,new,toma,yes,true,toma,new,2/24/2020,10:40,4884,2,right,right,true,false,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS13,5,v5,1,,wug,no,false,wug,nomodifier,2/24/2020,10:47,10349,1,left,right,false,false,zorp
+CS13,5,v5,2,new,gade,no,true,gade,new,2/24/2020,10:47,6517,1,left,left,true,true,sprock
+CS13,5,v5,3,new,koba,yes,true,koba,new,2/24/2020,10:47,5366,2,right,right,true,false,blicket
+CS13,5,v5,4,,toma,yes,true,toma,nomodifier,2/24/2020,10:47,6117,2,right,right,false,true,boti
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS14,5,v6,1,,koba,no,true,koba,nomodifier,2/24/2020,13:22,5982,2,right,right,true,false,blicket
+CS14,5,v6,2,,gade,yes,true,gade,nomodifier,2/24/2020,13:22,4954,1,left,left,true,true,sprock
+CS14,5,v6,3,new,boti,no,false,boti,new,2/24/2020,13:22,5560,1,left,right,false,false,toma
+CS14,5,v6,4,new,zorp,yes,true,zorp,new,2/24/2020,13:22,4461,2,right,right,false,true,wug
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS16,5,v5,1,,wug,no,false,wug,nomodifier,2/24/2020,13:39,5058,1,left,right,false,false,zorp
+CS16,5,v5,2,new,gade,no,false,gade,new,2/24/2020,13:39,7096,1,left,right,true,true,sprock
+CS16,5,v5,3,,toma,yes,true,toma,nomodifier,2/24/2020,13:39,5272,2,right,right,true,false,boti
+CS16,5,v5,4,new,koba,yes,true,koba,new,2/24/2020,13:39,4993,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS17,5,v6,1,,gade,yes,true,gade,nomodifier,2/24/2020,13:41,7854,1,left,left,true,true,sprock
+CS17,5,v6,2,new,zorp,yes,true,zorp,new,2/24/2020,13:41,5231,1,left,left,false,false,wug
+CS17,5,v6,3,new,boti,no,true,boti,new,2/24/2020,13:41,6942,2,right,right,true,false,toma
+CS17,5,v6,4,,koba,no,true,koba,nomodifier,2/24/2020,13:41,5574,2,right,right,false,true,blicket
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS18,5,v2,1,,sprock,yes,false,sprock,nomodifier,2/24/2020,13:53,6435,2,right,left,true,false,gade
+CS18,5,v2,2,new,toma,no,false,toma,new,2/24/2020,13:53,14489,2,right,left,false,true,boti
+CS18,5,v2,3,,blicket,no,false,blicket,nomodifier,2/24/2020,13:53,5911,1,left,right,false,false,koba
+CS18,5,v2,4,new,wug,yes,true,wug,new,2/24/2020,13:53,8006,1,left,left,true,true,zorp
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname 
+CS000,47,v1,1,,boti,yes,true,boti,nomodifier,2/24/2020,13:55,4955,1,left,left,true,true,toma
+CS000,47,v1,2,new,blicket,yes,true,blicket,new,2/24/2020,13:55,5500,2,right,right,false,true,koba
+CS000,47,v1,3,,zorp,no,true,zorp,nomodifier,2/24/2020,13:55,11011,1,left,left,false,false,wug
+CS000,47,v1,4,new,sprock,no,false,sprock,new,2/24/2020,13:55,4783,2,right,left,true,false,gade
